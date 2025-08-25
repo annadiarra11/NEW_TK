@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok Nedlaster",
+    "meta_description": "Last ned TikTok-videoer raskt og enkelt. Gratis, rask og sikker TikTok-videonedlaster med flere kvalitetsalternativer.",
+    "meta_keywords": "tiktok nedlaster, last ned tiktok videoer, lagre tiktok videoer, gratis tiktok nedlaster",
+    
+    "nav_home": "Hjem",
+    "nav_faq": "FAQ",
+    "nav_terms": "Tjenestevilkår",
+    "nav_privacy": "Personvernregler",
+    "language_selector": "Språk",
+    
+    "hero_title": "Last Ned TikTok-videoer",
+    "hero_subtitle": "Rask, gratis og enkel måte å laste ned dine favoritt TikTok-videoer i høy kvalitet",
+    "paste_url_placeholder": "Lim inn TikTok video-URL her...",
+    "download_button": "Last ned",
+    
+    "feature_fast_title": "Lynraskt",
+    "feature_fast_desc": "Last ned TikTok-videoer umiddelbart med våre optimaliserte servere",
+    "feature_quality_title": "Høy Kvalitet",
+    "feature_quality_desc": "Velg blant flere videokvalitetsalternativer opp til HD",
+    "feature_safe_title": "100% Sikker",
+    "feature_safe_desc": "Ingen skadelig programvare, ingen annonser, helt sikker og beskyttet",
+    
+    "how_it_works_title": "Hvordan Det Virker",
+    "how_it_works_subtitle": "Last ned TikTok-videoer på bare 3 enkle trinn",
+    "step1_title": "Kopier URL",
+    "step1_desc": "Kopier TikTok video-URL fra nettleseren eller appen din",
+    "step2_title": "Lim Inn og Behandle",
+    "step2_desc": "Lim inn URL-en i vår nedlaster og klikk last ned",
+    "step3_title": "Last Ned",
+    "step3_desc": "Velg din foretrukne kvalitet og last ned videoen",
+    
+    "faq_title": "Ofte Stilte Spørsmål",
+    "faq_subtitle": "Få svar på vanlige spørsmål om vår TikTok-nedlaster",
+    "faq_q1": "Er denne TikTok-nedlasteren gratis?",
+    "faq_a1": "Ja, vår TikTok-nedlaster er helt gratis å bruke. Ingen registrering kreves.",
+    "faq_q2": "Hvilke videokvaliteter er tilgjengelige?",
+    "faq_a2": "Vi støtter flere kvaliteter inkludert HD, 720p, 480p og 360p avhengig av originalvideoen.",
+    "faq_q3": "Er det trygt å bruke?",
+    "faq_a3": "Absolutt! Vår tjeneste er helt sikker og inneholder ingen skadelig programvare eller virus.",
+    "faq_q4": "Trenger jeg å installere programvare?",
+    "faq_a4": "Ingen installasjon kreves. Vår TikTok-nedlaster virker direkte i nettleseren din.",
+    "faq_q5": "Kan jeg laste ned TikTok-videoer på mobil?",
+    "faq_a5": "Ja, vår tjeneste er fullt optimalisert for mobile enheter og virker på alle smarttelefoner og nettbrett.",
+    "faq_q6": "Er det nedlastingsgrenser?",
+    "faq_a6": "Nei, du kan laste ned så mange TikTok-videoer du vil uten noen begrensninger.",
+    "view_more_faq": "Se Flere FAQ",
+    
+    "download_title": "Last Ned Video",
+    "back_to_home": "Tilbake til Hjem",
+    "select_quality": "Velg Videokvalitet",
+    "download": "Last ned",
+    "views": "visninger",
+    "likes": "likes",
+    "downloading": "Laster ned",
+    "no_formats_available": "Ingen nedlastingsformater tilgjengelig for denne videoen",
+    
+    "download_instructions_title": "Nedlastingsinstruksjoner",
+    "instruction_1": "Klikk på nedlastingsknappen for din foretrukne videokvalitet",
+    "instruction_2": "Nedlastingen starter automatisk i nettleseren din",
+    "instruction_3": "Sjekk nedlastingsmappen din for den lagrede videofilen",
+    
+    "error_no_url": "Vennligst skriv inn en TikTok video-URL",
+    "error_invalid_url": "Vennligst skriv inn en gyldig TikTok video-URL",
+    "error_fetch_failed": "Kunne ikke hente videoinformasjon. Vennligst sjekk URL-en og prøv igjen.",
+    "error_processing": "En feil oppstod under behandling av videoen. Vennligst prøv igjen.",
+    "error_download_failed": "Nedlasting mislyktes. Vennligst prøv igjen senere.",
+    "error_server": "En serverfeil oppstod. Vennligst prøv igjen senere.",
+    
+    "faq_page_title": "Ofte Stilte Spørsmål",
+    "faq_page_subtitle": "Alt du trenger å vite om vår TikTok-videonedlaster",
+    
+    "terms_page_title": "Tjenestevilkår",
+    "terms_last_updated": "1. januar 2025",
+    "last_updated": "Sist oppdatert",
+    
+    "terms_acceptance_title": "Aksept av Vilkår",
+    "terms_acceptance_text": "Ved å få tilgang til og bruke denne TikTok-nedlastertjenesten, aksepterer du og samtykker til å være bundet av vilkårene og bestemmelsene i denne avtalen.",
+    
+    "terms_service_title": "Bruk av Tjeneste",
+    "terms_service_text": "Vår tjeneste lar deg laste ned TikTok-videoer kun til personlig bruk. Kommersiell bruk er strengt forbudt.",
+    
+    "terms_usage_title": "Tillatt Bruk",
+    "terms_usage_1": "Last ned videoer kun til personlig, ikke-kommersiell bruk",
+    "terms_usage_2": "Respekter opphavsrett og immaterielle rettigheter",
+    "terms_usage_3": "Bruk tjenesten i samsvar med gjeldende lover",
+    "terms_usage_4": "Ikke forsøk å omgå sikkerhetstiltak",
+    
+    "terms_prohibited_title": "Forbudte Aktiviteter",
+    "terms_prohibited_1": "Kommersiell videreformidling av nedlastet innhold",
+    "terms_prohibited_2": "Forsøk på reverse engineering av tjenesten",
+    "terms_prohibited_3": "Bruk av automatiserte verktøy for å misbruke tjenesten",
+    "terms_prohibited_4": "Brudd på gjeldende lover eller forskrifter",
+    
+    "terms_copyright_title": "Opphavsrett og Immaterielle Rettigheter",
+    "terms_copyright_text": "Brukere er ansvarlige for å sikre at de har rett til å laste ned og bruke hvilket som helst innhold. Vi respekterer immaterielle rettigheter.",
+    
+    "terms_disclaimer_title": "Ansvarsfraskrivelse",
+    "terms_disclaimer_text": "Tjenesten leveres 'som den er' uten garantier av noe slag. Vi garanterer ikke tilgjengelighet eller nøyaktighet av tjenesten.",
+    
+    "terms_limitation_title": "Ansvarsbegrensning",
+    "terms_limitation_text": "Vi skal ikke være ansvarlige for direkte, indirekte, tilfeldige, spesielle eller følgeskader som oppstår fra bruk av denne tjenesten.",
+    
+    "terms_changes_title": "Endringer i Vilkår",
+    "terms_changes_text": "Vi forbeholder oss retten til å endre disse vilkårene når som helst. Endringer trer i kraft umiddelbart etter publisering.",
+    
+    "terms_contact_title": "Kontaktinformasjon",
+    "terms_contact_text": "Hvis du har spørsmål om disse vilkårene, vennligst kontakt oss gjennom vår nettside.",
+    
+    "privacy_page_title": "Personvernregler",
+    "privacy_last_updated": "1. januar 2025",
+    
+    "privacy_intro_title": "Introduksjon",
+    "privacy_intro_text": "Disse Personvernreglene beskriver hvordan vi samler inn, bruker og beskytter informasjonen din når du bruker vår TikTok-nedlastertjeneste.",
+    
+    "privacy_collection_title": "Informasjon Vi Samler Inn",
+    "privacy_collection_text": "Vi samler inn minimal informasjon som trengs for å levere vår tjeneste:",
+    "privacy_collection_1": "URL-er du sender inn for behandling",
+    "privacy_collection_2": "Grunnleggende bruksanalyse (anonym)",
+    "privacy_collection_3": "Teknisk informasjon (IP-adresse, nettlesertype) for sikkerhet",
+    
+    "privacy_usage_title": "Hvordan Vi Bruker Informasjon",
+    "privacy_usage_text": "Vi bruker innsamlet informasjon til å:",
+    "privacy_usage_1": "Behandle videonedlastingsforespørsler",
+    "privacy_usage_2": "Forbedre vår tjenesteytelse",
+    "privacy_usage_3": "Forhindre misbruk og sikre trygghet",
+    
+    "privacy_sharing_title": "Informasjonsdeling",
+    "privacy_sharing_text": "Vi selger, handler eller deler ikke din personlige informasjon med tredjeparter unntatt når loven krever det.",
+    
+    "privacy_cookies_title": "Informasjonskapsler og Sporing",
+    "privacy_cookies_text": "Vi bruker minimale informasjonskapsler for grunnleggende funksjonalitet og anonym analyse. Du kan deaktivere informasjonskapsler i nettleserinnstillingene dine.",
+    
+    "privacy_security_title": "Datasikkerhet",
+    "privacy_security_text": "Vi implementerer passende sikkerhetstiltak for å beskytte informasjonen din mot uautorisert tilgang, endring, avsløring eller ødeleggelse.",
+    
+    "privacy_retention_title": "Datalagring",
+    "privacy_retention_text": "Vi beholder informasjon kun så lenge som nødvendig for å levere vår tjeneste og oppfylle juridiske forpliktelser.",
+    
+    "privacy_rights_title": "Dine Rettigheter",
+    "privacy_rights_text": "Du har rett til å:",
+    "privacy_rights_1": "Få tilgang til informasjon vi har om deg",
+    "privacy_rights_2": "Be om korrigering av unøyaktig informasjon",
+    "privacy_rights_3": "Be om sletting av informasjonen din",
+    
+    "privacy_changes_title": "Endringer i Personvernregler",
+    "privacy_changes_text": "Vi kan oppdatere disse personvernreglene fra tid til annen. Vi vil varsle deg om eventuelle endringer ved å publisere de nye reglene på denne siden.",
+    
+    "privacy_contact_title": "Kontakt Oss",
+    "privacy_contact_text": "Hvis du har spørsmål om disse personvernreglene, vennligst kontakt oss gjennom vår nettside.",
+    
+    "footer_description": "Den raskeste og mest pålitelige TikTok-videonedlasteren. Last ned dine favoritt TikTok-videoer gratis i høy kvalitet.",
+    "footer_links": "Hurtiglenker",
+    "footer_disclaimer": "Ansvarsfraskrivelse",
+    "disclaimer_text": "Denne tjenesten er ikke tilknyttet TikTok. Alle varemerker tilhører sine respektive eiere.",
+    "all_rights_reserved": "Alle rettigheter reservert."
+}

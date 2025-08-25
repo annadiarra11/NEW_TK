@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok下载器",
+    "meta_description": "快速轻松下载TikTok视频。免费、快速、安全的TikTok视频下载器，提供多种质量选项。",
+    "meta_keywords": "tiktok下载器, 下载tiktok视频, 保存tiktok视频, 免费tiktok下载器",
+    
+    "nav_home": "首页",
+    "nav_faq": "常见问题",
+    "nav_terms": "服务条款",
+    "nav_privacy": "隐私政策",
+    "language_selector": "语言",
+    
+    "hero_title": "下载TikTok视频",
+    "hero_subtitle": "快速、免费、简单的方式下载您喜爱的TikTok视频，支持高清画质",
+    "paste_url_placeholder": "在此粘贴TikTok视频链接...",
+    "download_button": "下载",
+    
+    "feature_fast_title": "闪电般快速",
+    "feature_fast_desc": "使用我们优化的服务器即时下载TikTok视频",
+    "feature_quality_title": "高画质",
+    "feature_quality_desc": "从多种视频质量选项中选择，最高支持高清",
+    "feature_safe_title": "100%安全",
+    "feature_safe_desc": "无恶意软件，无广告，完全安全可靠",
+    
+    "how_it_works_title": "使用方法",
+    "how_it_works_subtitle": "仅需3个简单步骤即可下载TikTok视频",
+    "step1_title": "复制链接",
+    "step1_desc": "从浏览器或应用中复制TikTok视频链接",
+    "step2_title": "粘贴并处理",
+    "step2_desc": "将链接粘贴到我们的下载器中并点击下载",
+    "step3_title": "下载",
+    "step3_desc": "选择您偏好的质量并下载视频",
+    
+    "faq_title": "常见问题",
+    "faq_subtitle": "获取关于我们TikTok下载器常见问题的答案",
+    "faq_q1": "这个TikTok下载器免费吗？",
+    "faq_a1": "是的，我们的TikTok下载器完全免费使用。无需注册。",
+    "faq_q2": "有哪些视频质量可供选择？",
+    "faq_a2": "我们支持多种质量，包括高清、720p、480p和360p，具体取决于原始视频。",
+    "faq_q3": "使用安全吗？",
+    "faq_a3": "绝对安全！我们的服务完全安全，不包含任何恶意软件或病毒。",
+    "faq_q4": "需要安装软件吗？",
+    "faq_a4": "无需安装。我们的TikTok下载器直接在您的网络浏览器中运行。",
+    "faq_q5": "可以在手机上下载TikTok视频吗？",
+    "faq_a5": "是的，我们的服务完全针对移动设备优化，适用于所有智能手机和平板电脑。",
+    "faq_q6": "有下载限制吗？",
+    "faq_a6": "没有，您可以无限制地下载任意数量的TikTok视频。",
+    "view_more_faq": "查看更多常见问题",
+    
+    "download_title": "下载视频",
+    "back_to_home": "返回首页",
+    "select_quality": "选择视频质量",
+    "download": "下载",
+    "views": "观看次数",
+    "likes": "点赞",
+    "downloading": "下载中",
+    "no_formats_available": "此视频没有可用的下载格式",
+    
+    "download_instructions_title": "下载说明",
+    "instruction_1": "点击您偏好的视频质量下载按钮",
+    "instruction_2": "下载将在您的浏览器中自动开始",
+    "instruction_3": "检查您的下载文件夹以查找保存的视频文件",
+    
+    "error_no_url": "请输入TikTok视频链接",
+    "error_invalid_url": "请输入有效的TikTok视频链接",
+    "error_fetch_failed": "获取视频信息失败。请检查链接并重试。",
+    "error_processing": "处理视频时发生错误。请重试。",
+    "error_download_failed": "下载失败。请稍后重试。",
+    "error_server": "服务器发生错误。请稍后重试。",
+    
+    "faq_page_title": "常见问题",
+    "faq_page_subtitle": "关于我们TikTok视频下载器您需要了解的一切",
+    
+    "terms_page_title": "服务条款",
+    "terms_last_updated": "2025年1月1日",
+    "last_updated": "最后更新",
+    
+    "terms_acceptance_title": "条款接受",
+    "terms_acceptance_text": "通过访问和使用此TikTok下载器服务，您接受并同意受本协议条款和规定的约束。",
+    
+    "terms_service_title": "服务使用",
+    "terms_service_text": "我们的服务允许您仅为个人使用下载TikTok视频。严格禁止商业使用。",
+    
+    "terms_usage_title": "允许的使用",
+    "terms_usage_1": "仅为个人、非商业目的下载视频",
+    "terms_usage_2": "尊重版权和知识产权",
+    "terms_usage_3": "按照适用法律使用服务",
+    "terms_usage_4": "不得试图规避安全措施",
+    
+    "terms_prohibited_title": "禁止的活动",
+    "terms_prohibited_1": "下载内容的商业再分发",
+    "terms_prohibited_2": "试图对服务进行逆向工程",
+    "terms_prohibited_3": "使用自动化工具滥用服务",
+    "terms_prohibited_4": "违反任何适用的法律或法规",
+    
+    "terms_copyright_title": "版权和知识产权",
+    "terms_copyright_text": "用户有责任确保他们有权下载和使用任何内容。我们尊重知识产权。",
+    
+    "terms_disclaimer_title": "免责声明",
+    "terms_disclaimer_text": "服务按"现状"提供，不提供任何形式的保证。我们不保证服务的可用性或准确性。",
+    
+    "terms_limitation_title": "责任限制",
+    "terms_limitation_text": "我们不对因使用此服务而产生的任何直接、间接、偶然、特殊或后果性损害承担责任。",
+    
+    "terms_changes_title": "条款变更",
+    "terms_changes_text": "我们保留随时修改这些条款的权利。更改将在发布后立即生效。",
+    
+    "terms_contact_title": "联系信息",
+    "terms_contact_text": "如果您对这些条款有疑问，请通过我们的网站联系我们。",
+    
+    "privacy_page_title": "隐私政策",
+    "privacy_last_updated": "2025年1月1日",
+    
+    "privacy_intro_title": "介绍",
+    "privacy_intro_text": "本隐私政策描述了当您使用我们的TikTok下载器服务时，我们如何收集、使用和保护您的信息。",
+    
+    "privacy_collection_title": "我们收集的信息",
+    "privacy_collection_text": "我们收集提供服务所需的最少信息：",
+    "privacy_collection_1": "您提交用于处理的URL",
+    "privacy_collection_2": "基本使用分析（匿名）",
+    "privacy_collection_3": "用于安全的技术信息（IP地址、浏览器类型）",
+    
+    "privacy_usage_title": "我们如何使用信息",
+    "privacy_usage_text": "我们将收集的信息用于：",
+    "privacy_usage_1": "处理视频下载请求",
+    "privacy_usage_2": "改善我们的服务性能",
+    "privacy_usage_3": "防止滥用并确保安全",
+    
+    "privacy_sharing_title": "信息共享",
+    "privacy_sharing_text": "除法律要求外，我们不会向第三方出售、交易或分享您的个人信息。",
+    
+    "privacy_cookies_title": "Cookie和跟踪",
+    "privacy_cookies_text": "我们使用最少的cookie用于基本功能和匿名分析。您可以在浏览器设置中禁用cookie。",
+    
+    "privacy_security_title": "数据安全",
+    "privacy_security_text": "我们实施适当的安全措施来保护您的信息免受未经授权的访问、更改、披露或破坏。",
+    
+    "privacy_retention_title": "数据保留",
+    "privacy_retention_text": "我们仅在提供服务和遵守法律义务所需的时间内保留信息。",
+    
+    "privacy_rights_title": "您的权利",
+    "privacy_rights_text": "您有权：",
+    "privacy_rights_1": "访问我们掌握的关于您的信息",
+    "privacy_rights_2": "要求更正不准确的信息",
+    "privacy_rights_3": "要求删除您的信息",
+    
+    "privacy_changes_title": "隐私政策变更",
+    "privacy_changes_text": "我们可能会不时更新此隐私政策。我们将通过在此页面发布新政策来通知您任何更改。",
+    
+    "privacy_contact_title": "联系我们",
+    "privacy_contact_text": "如果您对此隐私政策有疑问，请通过我们的网站联系我们。",
+    
+    "footer_description": "最快速、最可靠的TikTok视频下载器。免费下载您喜爱的TikTok视频，支持高清画质。",
+    "footer_links": "快速链接",
+    "footer_disclaimer": "免责声明",
+    "disclaimer_text": "此服务与TikTok无关联。所有商标均属于其各自所有者。",
+    "all_rights_reserved": "版权所有。"
+}

@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok İndirici",
+    "meta_description": "TikTok videolarını hızlı ve kolay bir şekilde indirin. Birden fazla kalite seçeneği ile ücretsiz, hızlı ve güvenli TikTok video indirici.",
+    "meta_keywords": "tiktok indirici, tiktok video indir, tiktok video kaydet, ücretsiz tiktok indirici",
+    
+    "nav_home": "Ana Sayfa",
+    "nav_faq": "SSS",
+    "nav_terms": "Hizmet Şartları",
+    "nav_privacy": "Gizlilik Politikası",
+    "language_selector": "Dil",
+    
+    "hero_title": "TikTok Videoları İndir",
+    "hero_subtitle": "Favori TikTok videolarınızı yüksek kalitede hızlı, ücretsiz ve kolay bir şekilde indirmenin yolu",
+    "paste_url_placeholder": "TikTok video URL'sini buraya yapıştırın...",
+    "download_button": "İndir",
+    
+    "feature_fast_title": "Şimşek Hızında",
+    "feature_fast_desc": "Optimize edilmiş sunucularımızla TikTok videolarını anında indirin",
+    "feature_quality_title": "Yüksek Kalite",
+    "feature_quality_desc": "HD'ye kadar birden fazla video kalite seçeneğinden seçim yapın",
+    "feature_safe_title": "%100 Güvenli",
+    "feature_safe_desc": "Kötü amaçlı yazılım yok, reklam yok, tamamen güvenli ve korumalı",
+    
+    "how_it_works_title": "Nasıl Çalışır",
+    "how_it_works_subtitle": "Sadece 3 basit adımda TikTok videolarını indirin",
+    "step1_title": "URL'yi Kopyala",
+    "step1_desc": "TikTok video URL'sini tarayıcınızdan veya uygulamadan kopyalayın",
+    "step2_title": "Yapıştır ve İşle",
+    "step2_desc": "URL'yi indirici aracımıza yapıştırın ve indir'e tıklayın",
+    "step3_title": "İndir",
+    "step3_desc": "Tercih ettiğiniz kaliteyi seçin ve videoyu indirin",
+    
+    "faq_title": "Sıkça Sorulan Sorular",
+    "faq_subtitle": "TikTok indirici aracımız hakkında yaygın soruların cevaplarını alın",
+    "faq_q1": "Bu TikTok indirici ücretsiz mi?",
+    "faq_a1": "Evet, TikTok indirici aracımız kullanım için tamamen ücretsizdir. Kayıt gerekli değildir.",
+    "faq_q2": "Hangi video kaliteleri mevcut?",
+    "faq_a2": "Orijinal videoya bağlı olarak HD, 720p, 480p ve 360p dahil birden fazla kaliteyi destekliyoruz.",
+    "faq_q3": "Kullanımı güvenli mi?",
+    "faq_a3": "Kesinlikle! Hizmetimiz tamamen güvenlidir ve herhangi bir kötü amaçlı yazılım veya virüs içermez.",
+    "faq_q4": "Yazılım yüklemem gerekiyor mu?",
+    "faq_a4": "Kurulum gerekli değildir. TikTok indirici aracımız doğrudan web tarayıcınızda çalışır.",
+    "faq_q5": "Mobilde TikTok videoları indirebilir miyim?",
+    "faq_a5": "Evet, hizmetimiz mobil cihazlar için tamamen optimize edilmiştir ve tüm akıllı telefonlar ve tabletlerde çalışır.",
+    "faq_q6": "İndirme sınırları var mı?",
+    "faq_a6": "Hayır, herhangi bir kısıtlama olmadan istediğiniz kadar TikTok videosu indirebilirsiniz.",
+    "view_more_faq": "Daha Fazla SSS Görüntüle",
+    
+    "download_title": "Video İndir",
+    "back_to_home": "Ana Sayfaya Dön",
+    "select_quality": "Video Kalitesini Seç",
+    "download": "İndir",
+    "views": "görüntüleme",
+    "likes": "beğeni",
+    "downloading": "İndiriliyor",
+    "no_formats_available": "Bu video için indirme formatı mevcut değil",
+    
+    "download_instructions_title": "İndirme Talimatları",
+    "instruction_1": "Tercih ettiğiniz video kalitesi için indirme düğmesine tıklayın",
+    "instruction_2": "İndirme işlemi tarayıcınızda otomatik olarak başlayacak",
+    "instruction_3": "Kaydedilen video dosyası için indirme klasörünüzü kontrol edin",
+    
+    "error_no_url": "Lütfen bir TikTok video URL'si girin",
+    "error_invalid_url": "Lütfen geçerli bir TikTok video URL'si girin",
+    "error_fetch_failed": "Video bilgileri alınamadı. Lütfen URL'yi kontrol edin ve tekrar deneyin.",
+    "error_processing": "Video işlenirken bir hata oluştu. Lütfen tekrar deneyin.",
+    "error_download_failed": "İndirme başarısız oldu. Lütfen daha sonra tekrar deneyin.",
+    "error_server": "Sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin.",
+    
+    "faq_page_title": "Sıkça Sorulan Sorular",
+    "faq_page_subtitle": "TikTok video indirici aracımız hakkında bilmeniz gereken her şey",
+    
+    "terms_page_title": "Hizmet Şartları",
+    "terms_last_updated": "1 Ocak 2025",
+    "last_updated": "Son güncelleme",
+    
+    "terms_acceptance_title": "Şartların Kabulü",
+    "terms_acceptance_text": "Bu TikTok indirici hizmetine erişerek ve kullanarak, bu anlaşmanın şart ve hükümlerine bağlı olmayı kabul eder ve onaylarsınız.",
+    
+    "terms_service_title": "Hizmet Kullanımı",
+    "terms_service_text": "Hizmetimiz TikTok videolarını yalnızca kişisel kullanım için indirmenize olanak tanır. Ticari kullanım kesinlikle yasaktır.",
+    
+    "terms_usage_title": "İzin Verilen Kullanım",
+    "terms_usage_1": "Videoları yalnızca kişisel, ticari olmayan kullanım için indirin",
+    "terms_usage_2": "Telif hakkı ve fikri mülkiyet haklarına saygı gösterin",
+    "terms_usage_3": "Hizmeti yürürlükteki yasalara uygun olarak kullanın",
+    "terms_usage_4": "Güvenlik önlemlerini aşmaya çalışmayın",
+    
+    "terms_prohibited_title": "Yasaklanan Faaliyetler",
+    "terms_prohibited_1": "İndirilen içeriğin ticari yeniden dağıtımı",
+    "terms_prohibited_2": "Hizmetin tersine mühendisliğini yapmaya çalışmak",
+    "terms_prohibited_3": "Hizmeti kötüye kullanmak için otomatik araçlar kullanmak",
+    "terms_prohibited_4": "Yürürlükteki herhangi bir yasa veya düzenlemeyi ihlal etmek",
+    
+    "terms_copyright_title": "Telif Hakkı ve Fikri Mülkiyet",
+    "terms_copyright_text": "Kullanıcılar herhangi bir içeriği indirme ve kullanma hakkına sahip olduklarından emin olmakla yükümlüdürler. Fikri mülkiyet haklarına saygı duyuyoruz.",
+    
+    "terms_disclaimer_title": "Sorumluluk Reddi",
+    "terms_disclaimer_text": "Hizmet herhangi bir garantisi olmaksızın 'olduğu gibi' sağlanmaktadır. Hizmetin kullanılabilirliğini veya doğruluğunu garanti etmiyoruz.",
+    
+    "terms_limitation_title": "Sorumluluk Sınırlaması",
+    "terms_limitation_text": "Bu hizmetin kullanımından kaynaklanan doğrudan, dolaylı, tesadüfi, özel veya sonuçsal zararlardan sorumlu olmayacağız.",
+    
+    "terms_changes_title": "Şartlardaki Değişiklikler",
+    "terms_changes_text": "Bu şartları istediğimiz zaman değiştirme hakkını saklı tutarız. Değişiklikler yayınlandığında hemen yürürlüğe girecektir.",
+    
+    "terms_contact_title": "İletişim Bilgileri",
+    "terms_contact_text": "Bu şartlar hakkında sorularınız varsa, lütfen web sitemiz aracılığıyla bizimle iletişime geçin.",
+    
+    "privacy_page_title": "Gizlilik Politikası",
+    "privacy_last_updated": "1 Ocak 2025",
+    
+    "privacy_intro_title": "Giriş",
+    "privacy_intro_text": "Bu Gizlilik Politikası, TikTok indirici hizmetimizi kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar.",
+    
+    "privacy_collection_title": "Topladığımız Bilgiler",
+    "privacy_collection_text": "Hizmetimizi sağlamak için gereken minimum bilgileri topluyoruz:",
+    "privacy_collection_1": "İşleme için gönderdiğiniz URL'ler",
+    "privacy_collection_2": "Temel kullanım analitiği (anonim)",
+    "privacy_collection_3": "Güvenlik için teknik bilgiler (IP adresi, tarayıcı türü)",
+    
+    "privacy_usage_title": "Bilgileri Nasıl Kullanıyoruz",
+    "privacy_usage_text": "Toplanan bilgileri şunlar için kullanıyoruz:",
+    "privacy_usage_1": "Video indirme isteklerini işlemek",
+    "privacy_usage_2": "Hizmet performansımızı geliştirmek",
+    "privacy_usage_3": "Kötüye kullanımı önlemek ve güvenliği sağlamak",
+    
+    "privacy_sharing_title": "Bilgi Paylaşımı",
+    "privacy_sharing_text": "Kanunların gerektirdiği durumlar dışında kişisel bilgilerinizi üçüncü taraflarla satmaz, takas etmez veya paylaşmayız.",
+    
+    "privacy_cookies_title": "Çerezler ve İzleme",
+    "privacy_cookies_text": "Temel işlevsellik ve anonim analitik için minimum çerez kullanıyoruz. Tarayıcı ayarlarınızdan çerezleri devre dışı bırakabilirsiniz.",
+    
+    "privacy_security_title": "Veri Güvenliği",
+    "privacy_security_text": "Bilgilerinizi yetkisiz erişim, değişiklik, ifşa veya imhaya karşı korumak için uygun güvenlik önlemleri uyguluyoruz.",
+    
+    "privacy_retention_title": "Veri Saklama",
+    "privacy_retention_text": "Bilgileri yalnızca hizmetimizi sağlamak ve yasal yükümlülükleri yerine getirmek için gerekli süre boyunca saklarız.",
+    
+    "privacy_rights_title": "Haklarınız",
+    "privacy_rights_text": "Şu haklara sahipsiniz:",
+    "privacy_rights_1": "Hakkınızda sahip olduğumuz bilgilere erişim",
+    "privacy_rights_2": "Yanlış bilgilerin düzeltilmesini talep etmek",
+    "privacy_rights_3": "Bilgilerinizin silinmesini talep etmek",
+    
+    "privacy_changes_title": "Gizlilik Politikasındaki Değişiklikler",
+    "privacy_changes_text": "Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikleri bu sayfada yeni politika yayınlayarak size bildireceğiz.",
+    
+    "privacy_contact_title": "Bizimle İletişime Geçin",
+    "privacy_contact_text": "Bu gizlilik politikası hakkında sorularınız varsa, lütfen web sitemiz aracılığıyla bizimle iletişime geçin.",
+    
+    "footer_description": "En hızlı ve güvenilir TikTok video indirici. Favori TikTok videolarınızı ücretsiz olarak yüksek kalitede indirin.",
+    "footer_links": "Hızlı Bağlantılar",
+    "footer_disclaimer": "Sorumluluk Reddi",
+    "disclaimer_text": "Bu hizmet TikTok ile bağlantılı değildir. Tüm ticari markalar ilgili sahiplerine aittir.",
+    "all_rights_reserved": "Tüm hakları saklıdır."
+}

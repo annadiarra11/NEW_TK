@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok 다운로더",
+    "meta_description": "TikTok 비디오를 빠르고 쉽게 다운로드하세요. 다양한 품질 옵션을 제공하는 무료, 빠르고 안전한 TikTok 비디오 다운로더.",
+    "meta_keywords": "틱톡 다운로더, 틱톡 비디오 다운로드, 틱톡 비디오 저장, 무료 틱톡 다운로더",
+    
+    "nav_home": "홈",
+    "nav_faq": "자주 묻는 질문",
+    "nav_terms": "서비스 약관",
+    "nav_privacy": "개인정보처리방침",
+    "language_selector": "언어",
+    
+    "hero_title": "TikTok 비디오 다운로드",
+    "hero_subtitle": "좋아하는 TikTok 비디오를 고화질로 빠르고 무료로 쉽게 다운로드하는 방법",
+    "paste_url_placeholder": "TikTok 비디오 URL을 여기에 붙여넣기...",
+    "download_button": "다운로드",
+    
+    "feature_fast_title": "번개같이 빠름",
+    "feature_fast_desc": "최적화된 서버로 TikTok 비디오를 즉시 다운로드",
+    "feature_quality_title": "고화질",
+    "feature_quality_desc": "HD까지 다양한 비디오 품질 옵션 중에서 선택",
+    "feature_safe_title": "100% 안전",
+    "feature_safe_desc": "악성코드 없음, 광고 없음, 완전히 안전하고 보안됨",
+    
+    "how_it_works_title": "작동 방식",
+    "how_it_works_subtitle": "단 3가지 간단한 단계로 TikTok 비디오 다운로드",
+    "step1_title": "URL 복사",
+    "step1_desc": "브라우저나 앱에서 TikTok 비디오 URL을 복사",
+    "step2_title": "붙여넣기 및 처리",
+    "step2_desc": "다운로더에 URL을 붙여넣고 다운로드 클릭",
+    "step3_title": "다운로드",
+    "step3_desc": "원하는 품질을 선택하고 비디오 다운로드",
+    
+    "faq_title": "자주 묻는 질문",
+    "faq_subtitle": "TikTok 다운로더에 대한 일반적인 질문에 대한 답변",
+    "faq_q1": "이 TikTok 다운로더는 무료인가요?",
+    "faq_a1": "네, 저희 TikTok 다운로더는 완전히 무료로 사용할 수 있습니다. 가입이 필요하지 않습니다.",
+    "faq_q2": "어떤 비디오 품질을 사용할 수 있나요?",
+    "faq_a2": "원본 비디오에 따라 HD, 720p, 480p, 360p를 포함한 다양한 품질을 지원합니다.",
+    "faq_q3": "사용하기에 안전한가요?",
+    "faq_a3": "절대적으로 안전합니다! 저희 서비스는 완전히 안전하며 악성코드나 바이러스가 포함되어 있지 않습니다.",
+    "faq_q4": "소프트웨어를 설치해야 하나요?",
+    "faq_a4": "설치가 필요하지 않습니다. 저희 TikTok 다운로더는 웹 브라우저에서 직접 작동합니다.",
+    "faq_q5": "모바일에서 TikTok 비디오를 다운로드할 수 있나요?",
+    "faq_a5": "네, 저희 서비스는 모바일 기기에 완전히 최적화되어 있으며 모든 스마트폰과 태블릿에서 작동합니다.",
+    "faq_q6": "다운로드 제한이 있나요?",
+    "faq_a6": "아니요, 제한 없이 원하는 만큼 TikTok 비디오를 다운로드할 수 있습니다.",
+    "view_more_faq": "더 많은 FAQ 보기",
+    
+    "download_title": "비디오 다운로드",
+    "back_to_home": "홈으로 돌아가기",
+    "select_quality": "비디오 품질 선택",
+    "download": "다운로드",
+    "views": "조회수",
+    "likes": "좋아요",
+    "downloading": "다운로드 중",
+    "no_formats_available": "이 비디오에 사용 가능한 다운로드 형식이 없습니다",
+    
+    "download_instructions_title": "다운로드 지침",
+    "instruction_1": "원하는 비디오 품질의 다운로드 버튼을 클릭",
+    "instruction_2": "브라우저에서 다운로드가 자동으로 시작됩니다",
+    "instruction_3": "저장된 비디오 파일을 위해 다운로드 폴더를 확인",
+    
+    "error_no_url": "TikTok 비디오 URL을 입력해 주세요",
+    "error_invalid_url": "유효한 TikTok 비디오 URL을 입력해 주세요",
+    "error_fetch_failed": "비디오 정보를 가져오지 못했습니다. URL을 확인하고 다시 시도해 주세요.",
+    "error_processing": "비디오 처리 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "error_download_failed": "다운로드에 실패했습니다. 나중에 다시 시도해 주세요.",
+    "error_server": "서버 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
+    
+    "faq_page_title": "자주 묻는 질문",
+    "faq_page_subtitle": "TikTok 비디오 다운로더에 대해 알아야 할 모든 것",
+    
+    "terms_page_title": "서비스 약관",
+    "terms_last_updated": "2025년 1월 1일",
+    "last_updated": "최종 업데이트",
+    
+    "terms_acceptance_title": "약관 수락",
+    "terms_acceptance_text": "이 TikTok 다운로더 서비스에 접근하고 사용함으로써, 이 계약의 조건과 규정에 구속되는 것에 동의하고 수락합니다.",
+    
+    "terms_service_title": "서비스 사용",
+    "terms_service_text": "저희 서비스는 개인 사용 목적으로만 TikTok 비디오를 다운로드할 수 있게 합니다. 상업적 사용은 엄격히 금지됩니다.",
+    
+    "terms_usage_title": "허용된 사용",
+    "terms_usage_1": "개인적, 비상업적 용도로만 비디오 다운로드",
+    "terms_usage_2": "저작권 및 지적 재산권 존중",
+    "terms_usage_3": "적용 법률에 따라 서비스 사용",
+    "terms_usage_4": "보안 조치를 우회하려고 시도하지 않음",
+    
+    "terms_prohibited_title": "금지된 활동",
+    "terms_prohibited_1": "다운로드한 콘텐츠의 상업적 재배포",
+    "terms_prohibited_2": "서비스의 역공학 시도",
+    "terms_prohibited_3": "서비스를 남용하기 위한 자동화 도구 사용",
+    "terms_prohibited_4": "적용 법률이나 규정 위반",
+    
+    "terms_copyright_title": "저작권 및 지적 재산",
+    "terms_copyright_text": "사용자는 콘텐츠를 다운로드하고 사용할 권리가 있는지 확인할 책임이 있습니다. 저희는 지적 재산권을 존중합니다.",
+    
+    "terms_disclaimer_title": "면책 조항",
+    "terms_disclaimer_text": "서비스는 어떠한 보증도 없이 '있는 그대로' 제공됩니다. 서비스의 가용성이나 정확성을 보장하지 않습니다.",
+    
+    "terms_limitation_title": "책임 제한",
+    "terms_limitation_text": "이 서비스 사용으로 인한 직접적, 간접적, 우발적, 특별하거나 결과적 손해에 대해 책임지지 않습니다.",
+    
+    "terms_changes_title": "약관 변경",
+    "terms_changes_text": "언제든지 이 약관을 수정할 권리를 보유합니다. 변경 사항은 게시 즉시 효력을 발생합니다.",
+    
+    "terms_contact_title": "연락처 정보",
+    "terms_contact_text": "이 약관에 대한 질문이 있으시면 웹사이트를 통해 문의해 주세요.",
+    
+    "privacy_page_title": "개인정보처리방침",
+    "privacy_last_updated": "2025년 1월 1일",
+    
+    "privacy_intro_title": "소개",
+    "privacy_intro_text": "이 개인정보처리방침은 TikTok 다운로더 서비스를 사용할 때 정보를 수집, 사용 및 보호하는 방법을 설명합니다.",
+    
+    "privacy_collection_title": "수집하는 정보",
+    "privacy_collection_text": "서비스 제공에 필요한 최소한의 정보를 수집합니다:",
+    "privacy_collection_1": "처리를 위해 제출하는 URL",
+    "privacy_collection_2": "기본 사용 분석(익명)",
+    "privacy_collection_3": "보안을 위한 기술 정보(IP 주소, 브라우저 유형)",
+    
+    "privacy_usage_title": "정보 사용 방법",
+    "privacy_usage_text": "수집된 정보를 다음 용도로 사용합니다:",
+    "privacy_usage_1": "비디오 다운로드 요청 처리",
+    "privacy_usage_2": "서비스 성능 향상",
+    "privacy_usage_3": "남용 방지 및 보안 보장",
+    
+    "privacy_sharing_title": "정보 공유",
+    "privacy_sharing_text": "법적으로 요구되는 경우를 제외하고 제3자와 개인정보를 판매, 거래 또는 공유하지 않습니다.",
+    
+    "privacy_cookies_title": "쿠키 및 추적",
+    "privacy_cookies_text": "필수 기능과 익명 분석을 위해 최소한의 쿠키를 사용합니다. 브라우저 설정에서 쿠키를 비활성화할 수 있습니다.",
+    
+    "privacy_security_title": "데이터 보안",
+    "privacy_security_text": "무단 접근, 변경, 공개 또는 파괴로부터 정보를 보호하기 위한 적절한 보안 조치를 구현합니다.",
+    
+    "privacy_retention_title": "데이터 보관",
+    "privacy_retention_text": "서비스 제공과 법적 의무 준수에 필요한 기간 동안만 정보를 보관합니다.",
+    
+    "privacy_rights_title": "귀하의 권리",
+    "privacy_rights_text": "다음과 같은 권리가 있습니다:",
+    "privacy_rights_1": "저희가 보유한 귀하의 정보에 접근",
+    "privacy_rights_2": "부정확한 정보의 수정 요청",
+    "privacy_rights_3": "귀하의 정보 삭제 요청",
+    
+    "privacy_changes_title": "개인정보처리방침 변경",
+    "privacy_changes_text": "이 개인정보처리방침을 수시로 업데이트할 수 있습니다. 이 페이지에 새로운 정책을 게시하여 변경 사항을 알려드립니다.",
+    
+    "privacy_contact_title": "연락처",
+    "privacy_contact_text": "이 개인정보처리방침에 대한 질문이 있으시면 웹사이트를 통해 문의해 주세요.",
+    
+    "footer_description": "가장 빠르고 신뢰할 수 있는 TikTok 비디오 다운로더. 좋아하는 TikTok 비디오를 무료로 고화질로 다운로드하세요.",
+    "footer_links": "빠른 링크",
+    "footer_disclaimer": "면책 조항",
+    "disclaimer_text": "이 서비스는 TikTok과 제휴되어 있지 않습니다. 모든 상표는 해당 소유자에게 속합니다.",
+    "all_rights_reserved": "모든 권리 보유."
+}

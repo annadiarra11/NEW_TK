@@ -1,0 +1,157 @@
+{
+    "site_title": "Descargador de TikTok",
+    "meta_description": "Descarga videos de TikTok de forma rápida y fácil. Descargador de videos de TikTok gratuito, rápido y seguro con múltiples opciones de calidad.",
+    "meta_keywords": "descargador tiktok, descargar videos tiktok, guardador videos tiktok, descargador tiktok gratis",
+    
+    "nav_home": "Inicio",
+    "nav_faq": "Preguntas Frecuentes",
+    "nav_terms": "Términos de Servicio",
+    "nav_privacy": "Política de Privacidad",
+    "language_selector": "Idioma",
+    
+    "hero_title": "Descargar Videos de TikTok",
+    "hero_subtitle": "Forma rápida, gratuita y fácil de descargar tus videos favoritos de TikTok en alta calidad",
+    "paste_url_placeholder": "Pega la URL del video de TikTok aquí...",
+    "download_button": "Descargar",
+    
+    "feature_fast_title": "Súper Rápido",
+    "feature_fast_desc": "Descarga videos de TikTok instantáneamente con nuestros servidores optimizados",
+    "feature_quality_title": "Alta Calidad",
+    "feature_quality_desc": "Elige entre múltiples opciones de calidad de video hasta HD",
+    "feature_safe_title": "100% Seguro",
+    "feature_safe_desc": "Sin malware, sin anuncios, completamente seguro y protegido",
+    
+    "how_it_works_title": "Cómo Funciona",
+    "how_it_works_subtitle": "Descarga videos de TikTok en solo 3 pasos simples",
+    "step1_title": "Copiar URL",
+    "step1_desc": "Copia la URL del video de TikTok desde tu navegador o aplicación",
+    "step2_title": "Pegar y Procesar",
+    "step2_desc": "Pega la URL en nuestro descargador y haz clic en descargar",
+    "step3_title": "Descargar",
+    "step3_desc": "Elige tu calidad preferida y descarga el video",
+    
+    "faq_title": "Preguntas Frecuentes",
+    "faq_subtitle": "Obtén respuestas a preguntas comunes sobre nuestro descargador de TikTok",
+    "faq_q1": "¿Este descargador de TikTok es gratuito?",
+    "faq_a1": "Sí, nuestro descargador de TikTok es completamente gratuito. No se requiere registro.",
+    "faq_q2": "¿Qué calidades de video están disponibles?",
+    "faq_a2": "Soportamos múltiples calidades incluyendo HD, 720p, 480p y 360p dependiendo del video original.",
+    "faq_q3": "¿Es seguro de usar?",
+    "faq_a3": "¡Absolutamente! Nuestro servicio es completamente seguro y no contiene malware ni virus.",
+    "faq_q4": "¿Necesito instalar software?",
+    "faq_a4": "No se requiere instalación. Nuestro descargador funciona directamente en tu navegador.",
+    "faq_q5": "¿Puedo descargar videos de TikTok en móvil?",
+    "faq_a5": "Sí, nuestro servicio está completamente optimizado para dispositivos móviles.",
+    "faq_q6": "¿Hay límites de descarga?",
+    "faq_a6": "No, puedes descargar tantos videos de TikTok como quieras sin restricciones.",
+    "view_more_faq": "Ver Más FAQ",
+    
+    "download_title": "Descargar Video",
+    "back_to_home": "Volver al Inicio",
+    "select_quality": "Seleccionar Calidad de Video",
+    "download": "Descargar",
+    "views": "visualizaciones",
+    "likes": "me gusta",
+    "downloading": "Descargando",
+    "no_formats_available": "No hay formatos de descarga disponibles para este video",
+    
+    "download_instructions_title": "Instrucciones de Descarga",
+    "instruction_1": "Haz clic en el botón de descarga para tu calidad de video preferida",
+    "instruction_2": "La descarga comenzará automáticamente en tu navegador",
+    "instruction_3": "Revisa tu carpeta de descargas para el archivo de video guardado",
+    
+    "error_no_url": "Por favor ingresa una URL de video de TikTok",
+    "error_invalid_url": "Por favor ingresa una URL válida de video de TikTok",
+    "error_fetch_failed": "Error al obtener información del video. Por favor verifica la URL e intenta de nuevo.",
+    "error_processing": "Ocurrió un error al procesar el video. Por favor intenta de nuevo.",
+    "error_download_failed": "Descarga fallida. Por favor intenta más tarde.",
+    "error_server": "Ocurrió un error del servidor. Por favor intenta más tarde.",
+    
+    "faq_page_title": "Preguntas Frecuentes",
+    "faq_page_subtitle": "Todo lo que necesitas saber sobre nuestro descargador de videos de TikTok",
+    
+    "terms_page_title": "Términos de Servicio",
+    "terms_last_updated": "1 de enero de 2025",
+    "last_updated": "Última actualización",
+    
+    "terms_acceptance_title": "Aceptación de Términos",
+    "terms_acceptance_text": "Al acceder y usar este servicio descargador de TikTok, aceptas y acuerdas estar sujeto a los términos y disposiciones de este acuerdo.",
+    
+    "terms_service_title": "Uso del Servicio",
+    "terms_service_text": "Nuestro servicio te permite descargar videos de TikTok solo para uso personal. El uso comercial está estrictamente prohibido.",
+    
+    "terms_usage_title": "Uso Permitido",
+    "terms_usage_1": "Descargar videos solo para uso personal y no comercial",
+    "terms_usage_2": "Respetar derechos de autor y propiedad intelectual",
+    "terms_usage_3": "Usar el servicio de acuerdo con las leyes aplicables",
+    "terms_usage_4": "No intentar eludir medidas de seguridad",
+    
+    "terms_prohibited_title": "Actividades Prohibidas",
+    "terms_prohibited_1": "Redistribución comercial de contenido descargado",
+    "terms_prohibited_2": "Intentar hacer ingeniería inversa del servicio",
+    "terms_prohibited_3": "Usar herramientas automatizadas para abusar del servicio",
+    "terms_prohibited_4": "Violar leyes o regulaciones aplicables",
+    
+    "terms_copyright_title": "Derechos de Autor y Propiedad Intelectual",
+    "terms_copyright_text": "Los usuarios son responsables de asegurar que tienen el derecho de descargar y usar cualquier contenido. Respetamos los derechos de propiedad intelectual.",
+    
+    "terms_disclaimer_title": "Descargo de Responsabilidad",
+    "terms_disclaimer_text": "El servicio se proporciona 'tal como es' sin garantías de ningún tipo. No garantizamos la disponibilidad o precisión del servicio.",
+    
+    "terms_limitation_title": "Limitación de Responsabilidad",
+    "terms_limitation_text": "No seremos responsables por daños directos, indirectos, incidentales, especiales o consecuenciales derivados del uso de este servicio.",
+    
+    "terms_changes_title": "Cambios en los Términos",
+    "terms_changes_text": "Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios serán efectivos inmediatamente después de su publicación.",
+    
+    "terms_contact_title": "Información de Contacto",
+    "terms_contact_text": "Si tienes preguntas sobre estos términos, contáctanos a través de nuestro sitio web.",
+    
+    "privacy_page_title": "Política de Privacidad",
+    "privacy_last_updated": "1 de enero de 2025",
+    
+    "privacy_intro_title": "Introducción",
+    "privacy_intro_text": "Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos tu información cuando usas nuestro servicio descargador de TikTok.",
+    
+    "privacy_collection_title": "Información que Recopilamos",
+    "privacy_collection_text": "Recopilamos información mínima necesaria para proporcionar nuestro servicio:",
+    "privacy_collection_1": "URLs que envías para procesamiento",
+    "privacy_collection_2": "Análisis básicos de uso (anónimos)",
+    "privacy_collection_3": "Información técnica (dirección IP, tipo de navegador) para seguridad",
+    
+    "privacy_usage_title": "Cómo Usamos la Información",
+    "privacy_usage_text": "Usamos la información recopilada para:",
+    "privacy_usage_1": "Procesar solicitudes de descarga de video",
+    "privacy_usage_2": "Mejorar el rendimiento de nuestro servicio",
+    "privacy_usage_3": "Prevenir abuso y garantizar seguridad",
+    
+    "privacy_sharing_title": "Compartir Información",
+    "privacy_sharing_text": "No vendemos, comerciamos o compartimos tu información personal con terceros excepto cuando lo requiera la ley.",
+    
+    "privacy_cookies_title": "Cookies y Seguimiento",
+    "privacy_cookies_text": "Usamos cookies mínimas para funcionalidad esencial y análisis anónimos. Puedes deshabilitar las cookies en la configuración de tu navegador.",
+    
+    "privacy_security_title": "Seguridad de Datos",
+    "privacy_security_text": "Implementamos medidas de seguridad apropiadas para proteger tu información contra acceso no autorizado, alteración, divulgación o destrucción.",
+    
+    "privacy_retention_title": "Retención de Datos",
+    "privacy_retention_text": "Retenemos información solo el tiempo necesario para proporcionar nuestro servicio y cumplir con obligaciones legales.",
+    
+    "privacy_rights_title": "Tus Derechos",
+    "privacy_rights_text": "Tienes derecho a:",
+    "privacy_rights_1": "Acceder a la información que tenemos sobre ti",
+    "privacy_rights_2": "Solicitar corrección de información inexacta",
+    "privacy_rights_3": "Solicitar eliminación de tu información",
+    
+    "privacy_changes_title": "Cambios en la Política de Privacidad",
+    "privacy_changes_text": "Podemos actualizar esta política de privacidad de vez en cuando. Te notificaremos de cualquier cambio publicando la nueva política en esta página.",
+    
+    "privacy_contact_title": "Contáctanos",
+    "privacy_contact_text": "Si tienes preguntas sobre esta política de privacidad, contáctanos a través de nuestro sitio web.",
+    
+    "footer_description": "El descargador de videos de TikTok más rápido y confiable. Descarga tus videos favoritos de TikTok en alta calidad gratis.",
+    "footer_links": "Enlaces Rápidos",
+    "footer_disclaimer": "Descargo de Responsabilidad",
+    "disclaimer_text": "Este servicio no está afiliado con TikTok. Todas las marcas comerciales pertenecen a sus respectivos propietarios.",
+    "all_rights_reserved": "Todos los derechos reservados."
+}

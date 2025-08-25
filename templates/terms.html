@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}{{ t.nav_terms }} - {{ t.site_title }}{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="page-header">
+                <h1>{{ t.terms_page_title }}</h1>
+                <p class="text-muted">{{ t.last_updated }}: {{ t.terms_last_updated }}</p>
+            </div>
+            
+            <div class="legal-content">
+                <h2>{{ t.terms_acceptance_title }}</h2>
+                <p>{{ t.terms_acceptance_text }}</p>
+                
+                <h2>{{ t.terms_service_title }}</h2>
+                <p>{{ t.terms_service_text }}</p>
+                
+                <h2>{{ t.terms_usage_title }}</h2>
+                <ul>
+                    <li>{{ t.terms_usage_1 }}</li>
+                    <li>{{ t.terms_usage_2 }}</li>
+                    <li>{{ t.terms_usage_3 }}</li>
+                    <li>{{ t.terms_usage_4 }}</li>
+                </ul>
+                
+                <h2>{{ t.terms_prohibited_title }}</h2>
+                <ul>
+                    <li>{{ t.terms_prohibited_1 }}</li>
+                    <li>{{ t.terms_prohibited_2 }}</li>
+                    <li>{{ t.terms_prohibited_3 }}</li>
+                    <li>{{ t.terms_prohibited_4 }}</li>
+                </ul>
+                
+                <h2>{{ t.terms_copyright_title }}</h2>
+                <p>{{ t.terms_copyright_text }}</p>
+                
+                <h2>{{ t.terms_disclaimer_title }}</h2>
+                <p>{{ t.terms_disclaimer_text }}</p>
+                
+                <h2>{{ t.terms_limitation_title }}</h2>
+                <p>{{ t.terms_limitation_text }}</p>
+                
+                <h2>{{ t.terms_changes_title }}</h2>
+                <p>{{ t.terms_changes_text }}</p>
+                
+                <h2>{{ t.terms_contact_title }}</h2>
+                <p>{{ t.terms_contact_text }}</p>
+            </div>
+            
+            <div class="text-center mt-5">
+                <a href="{{ url_for('index') }}" class="btn btn-primary">
+                    <i class="fas fa-arrow-left"></i> {{ t.back_to_home }}
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

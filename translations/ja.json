@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTokダウンローダー",
+    "meta_description": "TikTok動画を素早く簡単にダウンロード。複数の品質オプションを備えた無料、高速、安全なTikTok動画ダウンローダー。",
+    "meta_keywords": "tiktokダウンローダー, tiktok動画ダウンロード, tiktok動画保存, 無料tiktokダウンローダー",
+    
+    "nav_home": "ホーム",
+    "nav_faq": "よくある質問",
+    "nav_terms": "利用規約",
+    "nav_privacy": "プライバシーポリシー",
+    "language_selector": "言語",
+    
+    "hero_title": "TikTok動画をダウンロード",
+    "hero_subtitle": "お気に入りのTikTok動画を高品質で素早く、無料で簡単にダウンロード",
+    "paste_url_placeholder": "TikTok動画のURLをここに貼り付け...",
+    "download_button": "ダウンロード",
+    
+    "feature_fast_title": "超高速",
+    "feature_fast_desc": "最適化されたサーバーでTikTok動画を即座にダウンロード",
+    "feature_quality_title": "高品質",
+    "feature_quality_desc": "HDまでの複数の動画品質オプションから選択",
+    "feature_safe_title": "100%安全",
+    "feature_safe_desc": "マルウェアなし、広告なし、完全に安全で保護されています",
+    
+    "how_it_works_title": "使用方法",
+    "how_it_works_subtitle": "わずか3つの簡単なステップでTikTok動画をダウンロード",
+    "step1_title": "URLをコピー",
+    "step1_desc": "ブラウザまたはアプリからTikTok動画のURLをコピー",
+    "step2_title": "貼り付けて処理",
+    "step2_desc": "ダウンローダーにURLを貼り付けてダウンロードをクリック",
+    "step3_title": "ダウンロード",
+    "step3_desc": "お好みの品質を選択して動画をダウンロード",
+    
+    "faq_title": "よくある質問",
+    "faq_subtitle": "TikTokダウンローダーに関するよくある質問への回答",
+    "faq_q1": "このTikTokダウンローダーは無料ですか？",
+    "faq_a1": "はい、私たちのTikTokダウンローダーは完全に無料でご利用いただけます。登録は不要です。",
+    "faq_q2": "どのような動画品質が利用できますか？",
+    "faq_a2": "元の動画によってHD、720p、480p、360pを含む複数の品質をサポートしています。",
+    "faq_q3": "使用しても安全ですか？",
+    "faq_a3": "絶対に安全です！私たちのサービスは完全に安全で、マルウェアやウイルスは含まれていません。",
+    "faq_q4": "ソフトウェアをインストールする必要がありますか？",
+    "faq_a4": "インストールは不要です。私たちのTikTokダウンローダーはWebブラウザで直接動作します。",
+    "faq_q5": "モバイルでTikTok動画をダウンロードできますか？",
+    "faq_a5": "はい、私たちのサービスはモバイルデバイス向けに完全に最適化されており、すべてのスマートフォンとタブレットで動作します。",
+    "faq_q6": "ダウンロード制限はありますか？",
+    "faq_a6": "いいえ、制限なしでお好きなだけTikTok動画をダウンロードできます。",
+    "view_more_faq": "もっと見る",
+    
+    "download_title": "動画をダウンロード",
+    "back_to_home": "ホームに戻る",
+    "select_quality": "動画品質を選択",
+    "download": "ダウンロード",
+    "views": "再生回数",
+    "likes": "いいね",
+    "downloading": "ダウンロード中",
+    "no_formats_available": "この動画に利用可能なダウンロード形式がありません",
+    
+    "download_instructions_title": "ダウンロード手順",
+    "instruction_1": "お好みの動画品質のダウンロードボタンをクリック",
+    "instruction_2": "ブラウザでダウンロードが自動的に開始されます",
+    "instruction_3": "保存された動画ファイルのダウンロードフォルダを確認",
+    
+    "error_no_url": "TikTok動画のURLを入力してください",
+    "error_invalid_url": "有効なTikTok動画のURLを入力してください",
+    "error_fetch_failed": "動画情報の取得に失敗しました。URLを確認して再試行してください。",
+    "error_processing": "動画の処理中にエラーが発生しました。再試行してください。",
+    "error_download_failed": "ダウンロードに失敗しました。後でもう一度お試しください。",
+    "error_server": "サーバーエラーが発生しました。後でもう一度お試しください。",
+    
+    "faq_page_title": "よくある質問",
+    "faq_page_subtitle": "TikTok動画ダウンローダーについて知っておくべきすべて",
+    
+    "terms_page_title": "利用規約",
+    "terms_last_updated": "2025年1月1日",
+    "last_updated": "最終更新",
+    
+    "terms_acceptance_title": "規約の承諾",
+    "terms_acceptance_text": "このTikTokダウンローダーサービスにアクセスし使用することで、この契約の条件と規定に拘束されることに同意し承諾します。",
+    
+    "terms_service_title": "サービスの使用",
+    "terms_service_text": "私たちのサービスは個人使用のみでTikTok動画をダウンロードすることを可能にします。商用使用は厳しく禁止されています。",
+    
+    "terms_usage_title": "許可された使用",
+    "terms_usage_1": "個人的、非商用目的のみで動画をダウンロード",
+    "terms_usage_2": "著作権と知的財産権を尊重",
+    "terms_usage_3": "適用法に従ってサービスを使用",
+    "terms_usage_4": "セキュリティ対策を回避しようとしない",
+    
+    "terms_prohibited_title": "禁止行為",
+    "terms_prohibited_1": "ダウンロードしたコンテンツの商用再配布",
+    "terms_prohibited_2": "サービスのリバースエンジニアリングの試み",
+    "terms_prohibited_3": "サービスを悪用する自動化ツールの使用",
+    "terms_prohibited_4": "適用法や規制の違反",
+    
+    "terms_copyright_title": "著作権と知的財産",
+    "terms_copyright_text": "ユーザーはコンテンツをダウンロードし使用する権利があることを確認する責任があります。私たちは知的財産権を尊重します。",
+    
+    "terms_disclaimer_title": "免責事項",
+    "terms_disclaimer_text": "サービスは「現状のまま」いかなる保証もなく提供されます。サービスの可用性や正確性を保証しません。",
+    
+    "terms_limitation_title": "責任の制限",
+    "terms_limitation_text": "このサービスの使用から生じる直接的、間接的、偶発的、特別または結果的損害について責任を負いません。",
+    
+    "terms_changes_title": "規約の変更",
+    "terms_changes_text": "いつでもこれらの規約を変更する権利を留保します。変更は投稿後直ちに有効になります。",
+    
+    "terms_contact_title": "連絡先情報",
+    "terms_contact_text": "これらの規約について質問がある場合は、ウェブサイトを通じてお問い合わせください。",
+    
+    "privacy_page_title": "プライバシーポリシー",
+    "privacy_last_updated": "2025年1月1日",
+    
+    "privacy_intro_title": "はじめに",
+    "privacy_intro_text": "このプライバシーポリシーは、TikTokダウンローダーサービスを使用する際に情報をどのように収集、使用、保護するかを説明します。",
+    
+    "privacy_collection_title": "収集する情報",
+    "privacy_collection_text": "サービス提供に必要な最小限の情報を収集します：",
+    "privacy_collection_1": "処理のために送信するURL",
+    "privacy_collection_2": "基本的な使用分析（匿名）",
+    "privacy_collection_3": "セキュリティのための技術情報（IPアドレス、ブラウザタイプ）",
+    
+    "privacy_usage_title": "情報の使用方法",
+    "privacy_usage_text": "収集した情報を以下の目的で使用します：",
+    "privacy_usage_1": "動画ダウンロードリクエストの処理",
+    "privacy_usage_2": "サービス性能の向上",
+    "privacy_usage_3": "悪用の防止とセキュリティの確保",
+    
+    "privacy_sharing_title": "情報の共有",
+    "privacy_sharing_text": "法律で要求される場合を除き、第三者と個人情報を販売、取引、共有しません。",
+    
+    "privacy_cookies_title": "Cookieと追跡",
+    "privacy_cookies_text": "基本機能と匿名分析のために最小限のCookieを使用します。ブラウザ設定でCookieを無効にできます。",
+    
+    "privacy_security_title": "データセキュリティ",
+    "privacy_security_text": "不正アクセス、改変、開示、破壊から情報を保護するための適切なセキュリティ対策を実装しています。",
+    
+    "privacy_retention_title": "データ保持",
+    "privacy_retention_text": "サービス提供と法的義務の遵守に必要な期間のみ情報を保持します。",
+    
+    "privacy_rights_title": "あなたの権利",
+    "privacy_rights_text": "以下の権利があります：",
+    "privacy_rights_1": "私たちが持っているあなたの情報へのアクセス",
+    "privacy_rights_2": "不正確な情報の修正の要求",
+    "privacy_rights_3": "情報の削除の要求",
+    
+    "privacy_changes_title": "プライバシーポリシーの変更",
+    "privacy_changes_text": "このプライバシーポリシーを随時更新する場合があります。このページに新しいポリシーを投稿することで変更をお知らせします。",
+    
+    "privacy_contact_title": "お問い合わせ",
+    "privacy_contact_text": "このプライバシーポリシーについて質問がある場合は、ウェブサイトを通じてお問い合わせください。",
+    
+    "footer_description": "最も高速で信頼性の高いTikTok動画ダウンローダー。お気に入りのTikTok動画を無料で高品質でダウンロード。",
+    "footer_links": "クイックリンク",
+    "footer_disclaimer": "免責事項",
+    "disclaimer_text": "このサービスはTikTokと提携していません。すべての商標はそれぞれの所有者に帰属します。",
+    "all_rights_reserved": "全ての権利を保有します。"
+}

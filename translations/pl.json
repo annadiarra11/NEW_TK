@@ -1,0 +1,157 @@
+{
+    "site_title": "Pobieracz TikTok",
+    "meta_description": "Pobieraj filmy TikTok szybko i łatwo. Darmowy, szybki i bezpieczny pobieracz filmów TikTok z wieloma opcjami jakości.",
+    "meta_keywords": "pobieracz tiktok, pobierz filmy tiktok, zapisz filmy tiktok, darmowy pobieracz tiktok",
+    
+    "nav_home": "Strona główna",
+    "nav_faq": "FAQ",
+    "nav_terms": "Warunki użytkowania",
+    "nav_privacy": "Polityka prywatności",
+    "language_selector": "Język",
+    
+    "hero_title": "Pobieraj filmy TikTok",
+    "hero_subtitle": "Szybki, darmowy i łatwy sposób na pobieranie ulubionych filmów TikTok w wysokiej jakości",
+    "paste_url_placeholder": "Wklej URL filmu TikTok tutaj...",
+    "download_button": "Pobierz",
+    
+    "feature_fast_title": "Błyskawicznie szybko",
+    "feature_fast_desc": "Pobieraj filmy TikTok natychmiast dzięki naszym zoptymalizowanym serwerom",
+    "feature_quality_title": "Wysoka jakość",
+    "feature_quality_desc": "Wybieraj spośród wielu opcji jakości wideo aż do HD",
+    "feature_safe_title": "100% bezpiecznie",
+    "feature_safe_desc": "Bez malware, bez reklam, całkowicie bezpieczne i chronione",
+    
+    "how_it_works_title": "Jak to działa",
+    "how_it_works_subtitle": "Pobieraj filmy TikTok w zaledwie 3 prostych krokach",
+    "step1_title": "Skopiuj URL",
+    "step1_desc": "Skopiuj URL filmu TikTok z przeglądarki lub aplikacji",
+    "step2_title": "Wklej i przetwórz",
+    "step2_desc": "Wklej URL w naszym pobrieraczku i kliknij pobierz",
+    "step3_title": "Pobierz",
+    "step3_desc": "Wybierz preferowaną jakość i pobierz film",
+    
+    "faq_title": "Często zadawane pytania",
+    "faq_subtitle": "Uzyskaj odpowiedzi na często zadawane pytania o nasz pobieracz TikTok",
+    "faq_q1": "Czy ten pobieracz TikTok jest darmowy?",
+    "faq_a1": "Tak, nasz pobieracz TikTok jest całkowicie darmowy w użyciu. Nie wymagamy rejestracji.",
+    "faq_q2": "Jakie jakości wideo są dostępne?",
+    "faq_a2": "Obsługujemy wiele jakości, w tym HD, 720p, 480p i 360p w zależności od oryginalnego filmu.",
+    "faq_q3": "Czy jest bezpieczny w użyciu?",
+    "faq_a3": "Absolutnie! Nasza usługa jest całkowicie bezpieczna i nie zawiera malware ani wirusów.",
+    "faq_q4": "Czy muszę instalować oprogramowanie?",
+    "faq_a4": "Instalacja nie jest wymagana. Nasz pobieracz TikTok działa bezpośrednio w przeglądarce internetowej.",
+    "faq_q5": "Czy mogę pobierać filmy TikTok na telefonie?",
+    "faq_a5": "Tak, nasza usługa jest w pełni zoptymalizowana pod urządzenia mobilne i działa na wszystkich smartfonach i tabletach.",
+    "faq_q6": "Czy istnieją limity pobierania?",
+    "faq_a6": "Nie, możesz pobierać tyle filmów TikTok, ile chcesz, bez żadnych ograniczeń.",
+    "view_more_faq": "Zobacz więcej FAQ",
+    
+    "download_title": "Pobierz film",
+    "back_to_home": "Powrót do strony głównej",
+    "select_quality": "Wybierz jakość wideo",
+    "download": "Pobierz",
+    "views": "wyświetlenia",
+    "likes": "polubienia",
+    "downloading": "Pobieranie",
+    "no_formats_available": "Brak dostępnych formatów pobierania dla tego filmu",
+    
+    "download_instructions_title": "Instrukcje pobierania",
+    "instruction_1": "Kliknij przycisk pobierania dla preferowanej jakości wideo",
+    "instruction_2": "Pobieranie rozpocznie się automatycznie w przeglądarce",
+    "instruction_3": "Sprawdź folder pobierania w poszukiwaniu zapisanego pliku wideo",
+    
+    "error_no_url": "Proszę wprowadzić URL filmu TikTok",
+    "error_invalid_url": "Proszę wprowadzić prawidłowy URL filmu TikTok",
+    "error_fetch_failed": "Nie udało się pobrać informacji o filmie. Sprawdź URL i spróbuj ponownie.",
+    "error_processing": "Wystąpił błąd podczas przetwarzania filmu. Spróbuj ponownie.",
+    "error_download_failed": "Pobieranie nie powiodło się. Spróbuj ponownie później.",
+    "error_server": "Wystąpił błąd serwera. Spróbuj ponownie później.",
+    
+    "faq_page_title": "Często zadawane pytania",
+    "faq_page_subtitle": "Wszystko, co musisz wiedzieć o naszym pobrieraczku filmów TikTok",
+    
+    "terms_page_title": "Warunki użytkowania",
+    "terms_last_updated": "1 stycznia 2025",
+    "last_updated": "Ostatnia aktualizacja",
+    
+    "terms_acceptance_title": "Akceptacja warunków",
+    "terms_acceptance_text": "Uzyskując dostęp i korzystając z tej usługi pobierania TikTok, akceptujesz i zgadzasz się być związany warunkami i postanowieniami tej umowy.",
+    
+    "terms_service_title": "Korzystanie z usługi",
+    "terms_service_text": "Nasza usługa pozwala pobierać filmy TikTok wyłącznie do użytku osobistego. Użycie komercyjne jest surowo zabronione.",
+    
+    "terms_usage_title": "Dozwolone użycie",
+    "terms_usage_1": "Pobieraj filmy wyłącznie do użytku osobistego, niekomercyjnego",
+    "terms_usage_2": "Szanuj prawa autorskie i własność intelektualną",
+    "terms_usage_3": "Korzystaj z usługi zgodnie z obowiązującym prawem",
+    "terms_usage_4": "Nie próbuj omijać środków bezpieczeństwa",
+    
+    "terms_prohibited_title": "Zabronione działania",
+    "terms_prohibited_1": "Komercyjna redystrybucja pobranej zawartości",
+    "terms_prohibited_2": "Próby inżynierii wstecznej usługi",
+    "terms_prohibited_3": "Używanie zautomatyzowanych narzędzi do nadużywania usługi",
+    "terms_prohibited_4": "Naruszanie jakichkolwiek obowiązujących praw lub przepisów",
+    
+    "terms_copyright_title": "Prawa autorskie i własność intelektualna",
+    "terms_copyright_text": "Użytkownicy są odpowiedzialni za zapewnienie, że mają prawo do pobierania i używania dowolnej zawartości. Szanujemy prawa własności intelektualnej.",
+    
+    "terms_disclaimer_title": "Zastrzeżenie",
+    "terms_disclaimer_text": "Usługa jest świadczona 'tak jak jest' bez jakichkolwiek gwarancji. Nie gwarantujemy dostępności ani dokładności usługi.",
+    
+    "terms_limitation_title": "Ograniczenie odpowiedzialności",
+    "terms_limitation_text": "Nie będziemy odpowiedzialni za jakiekolwiek bezpośrednie, pośrednie, przypadkowe, specjalne lub wynikowe szkody wynikające z korzystania z tej usługi.",
+    
+    "terms_changes_title": "Zmiany w warunkach",
+    "terms_changes_text": "Zastrzegamy sobie prawo do modyfikacji tych warunków w dowolnym czasie. Zmiany wejdą w życie natychmiast po publikacji.",
+    
+    "terms_contact_title": "Informacje kontaktowe",
+    "terms_contact_text": "Jeśli masz pytania dotyczące tych warunków, skontaktuj się z nami za pośrednictwem naszej strony internetowej.",
+    
+    "privacy_page_title": "Polityka prywatności",
+    "privacy_last_updated": "1 stycznia 2025",
+    
+    "privacy_intro_title": "Wprowadzenie",
+    "privacy_intro_text": "Ta Polityka Prywatności opisuje, jak gromadzimy, wykorzystujemy i chronimy Twoje informacje podczas korzystania z naszej usługi pobierania TikTok.",
+    
+    "privacy_collection_title": "Informacje, które gromadzimy",
+    "privacy_collection_text": "Gromadzimy minimalne informacje niezbędne do świadczenia naszej usługi:",
+    "privacy_collection_1": "URL-e, które przesyłasz do przetwarzania",
+    "privacy_collection_2": "Podstawowe analizy użytkowania (anonimowe)",
+    "privacy_collection_3": "Informacje techniczne (adres IP, typ przeglądarki) dla bezpieczeństwa",
+    
+    "privacy_usage_title": "Jak wykorzystujemy informacje",
+    "privacy_usage_text": "Wykorzystujemy zebrane informacje do:",
+    "privacy_usage_1": "Przetwarzania żądań pobierania wideo",
+    "privacy_usage_2": "Poprawy wydajności naszej usługi",
+    "privacy_usage_3": "Zapobiegania nadużyciom i zapewnienia bezpieczeństwa",
+    
+    "privacy_sharing_title": "Udostępnianie informacji",
+    "privacy_sharing_text": "Nie sprzedajemy, nie wymieniamy ani nie udostępniamy Twoich danych osobowych stronom trzecim, z wyjątkiem przypadków wymaganych przez prawo.",
+    
+    "privacy_cookies_title": "Pliki cookie i śledzenie",
+    "privacy_cookies_text": "Używamy minimalnych plików cookie dla podstawowej funkcjonalności i anonimowych analiz. Możesz wyłączyć pliki cookie w ustawieniach przeglądarki.",
+    
+    "privacy_security_title": "Bezpieczeństwo danych",
+    "privacy_security_text": "Wdrażamy odpowiednie środki bezpieczeństwa, aby chronić Twoje informacje przed nieautoryzowanym dostępem, zmianą, ujawnieniem lub zniszczeniem.",
+    
+    "privacy_retention_title": "Przechowywanie danych",
+    "privacy_retention_text": "Przechowujemy informacje tylko tak długo, jak to konieczne do świadczenia naszej usługi i wypełniania zobowiązań prawnych.",
+    
+    "privacy_rights_title": "Twoje prawa",
+    "privacy_rights_text": "Masz prawo do:",
+    "privacy_rights_1": "Dostępu do informacji, które o Tobie posiadamy",
+    "privacy_rights_2": "Żądania poprawienia nieprawidłowych informacji",
+    "privacy_rights_3": "Żądania usunięcia Twoich informacji",
+    
+    "privacy_changes_title": "Zmiany w polityce prywatności",
+    "privacy_changes_text": "Możemy od czasu do czasu aktualizować tę politykę prywatności. Powiadomimy Cię o wszelkich zmianach, publikując nową politykę na tej stronie.",
+    
+    "privacy_contact_title": "Skontaktuj się z nami",
+    "privacy_contact_text": "Jeśli masz pytania dotyczące tej polityki prywatności, skontaktuj się z nami za pośrednictwem naszej strony internetowej.",
+    
+    "footer_description": "Najszybszy i najbardziej niezawodny pobieracz filmów TikTok. Pobieraj ulubione filmy TikTok za darmo w wysokiej jakości.",
+    "footer_links": "Szybkie linki",
+    "footer_disclaimer": "Zastrzeżenie",
+    "disclaimer_text": "Ta usługa nie jest powiązana z TikTok. Wszystkie znaki towarowe należą do ich właścicieli.",
+    "all_rights_reserved": "Wszystkie prawa zastrzeżone."
+}

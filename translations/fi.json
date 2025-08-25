@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok Latausohjelma",
+    "meta_description": "Lataa TikTok-videot nopeasti ja helposti. Ilmainen, nopea ja turvallinen TikTok-videolatausohjelma useilla laatuvaihtoehdoilla.",
+    "meta_keywords": "tiktok latausohjelma, lataa tiktok videot, tallenna tiktok videot, ilmainen tiktok latausohjelma",
+    
+    "nav_home": "Koti",
+    "nav_faq": "UKK",
+    "nav_terms": "Käyttöehdot",
+    "nav_privacy": "Tietosuojakäytäntö",
+    "language_selector": "Kieli",
+    
+    "hero_title": "Lataa TikTok-videot",
+    "hero_subtitle": "Nopea, ilmainen ja helppo tapa ladata suosikki TikTok-videosi korkeassa laadussa",
+    "paste_url_placeholder": "Liitä TikTok-video URL tähän...",
+    "download_button": "Lataa",
+    
+    "feature_fast_title": "Salamannopea",
+    "feature_fast_desc": "Lataa TikTok-videot välittömästi optimoiduilla palvelimillamme",
+    "feature_quality_title": "Korkea Laatu",
+    "feature_quality_desc": "Valitse useista videolaatuvaihtoehdoista HD:hen asti",
+    "feature_safe_title": "100% Turvallinen",
+    "feature_safe_desc": "Ei haittaohjelmia, ei mainoksia, täysin turvallinen ja suojattu",
+    
+    "how_it_works_title": "Kuinka Se Toimii",
+    "how_it_works_subtitle": "Lataa TikTok-videot vain 3 yksinkertaisessa vaiheessa",
+    "step1_title": "Kopioi URL",
+    "step1_desc": "Kopioi TikTok-video URL selaimestasi tai sovelluksesta",
+    "step2_title": "Liitä ja Käsittele",
+    "step2_desc": "Liitä URL latausohjelmaanmme ja klikkaa lataa",
+    "step3_title": "Lataa",
+    "step3_desc": "Valitse haluamasi laatu ja lataa video",
+    
+    "faq_title": "Usein Kysytyt Kysymykset",
+    "faq_subtitle": "Saa vastauksia yleisiin kysymyksiin TikTok-latausohjelmastamme",
+    "faq_q1": "Onko tämä TikTok-latausohjelma ilmainen?",
+    "faq_a1": "Kyllä, TikTok-latausohjelmamme on täysin ilmainen käyttää. Rekisteröitymistä ei vaadita.",
+    "faq_q2": "Mitä videolaatuja on saatavilla?",
+    "faq_a2": "Tuemme useita laatuja mukaan lukien HD, 720p, 480p ja 360p alkuperäisen videon mukaan.",
+    "faq_q3": "Onko se turvallista käyttää?",
+    "faq_a3": "Ehdottomasti! Palvelumme on täysin turvallinen eikä sisällä haittaohjelmia tai viruksia.",
+    "faq_q4": "Tarvitsenko asentaa ohjelmistoa?",
+    "faq_a4": "Asennusta ei tarvita. TikTok-latausohjelmamme toimii suoraan verkkoselaimessasi.",
+    "faq_q5": "Voinko ladata TikTok-videot mobiilissa?",
+    "faq_a5": "Kyllä, palvelumme on täysin optimoitu mobiililaitteille ja toimii kaikissa älypuhelimissa ja tableteissa.",
+    "faq_q6": "Onko latausrajoituksia?",
+    "faq_a6": "Ei, voit ladata niin monta TikTok-videota kuin haluat ilman rajoituksia.",
+    "view_more_faq": "Näytä Lisää UKK",
+    
+    "download_title": "Lataa Video",
+    "back_to_home": "Takaisin Kotiin",
+    "select_quality": "Valitse Videolaatu",
+    "download": "Lataa",
+    "views": "katselukertaa",
+    "likes": "tykkäykset",
+    "downloading": "Ladataan",
+    "no_formats_available": "Ei latausmuotoja saatavilla tälle videolle",
+    
+    "download_instructions_title": "Latausohjeet",
+    "instruction_1": "Klikkaa latausnappia haluamallesi videolaadulle",
+    "instruction_2": "Lataus alkaa automaattisesti selaimessasi",
+    "instruction_3": "Tarkista latauskansio tallennetun videotiedoston löytämiseksi",
+    
+    "error_no_url": "Anna TikTok-video URL",
+    "error_invalid_url": "Anna kelvollinen TikTok-video URL",
+    "error_fetch_failed": "Videotietojen hakeminen epäonnistui. Tarkista URL ja yritä uudelleen.",
+    "error_processing": "Virhe tapahtui videon käsittelyssä. Yritä uudelleen.",
+    "error_download_failed": "Lataus epäonnistui. Yritä myöhemmin uudelleen.",
+    "error_server": "Palvelinvirhe tapahtui. Yritä myöhemmin uudelleen.",
+    
+    "faq_page_title": "Usein Kysytyt Kysymykset",
+    "faq_page_subtitle": "Kaikki mitä sinun tarvitsee tietää TikTok-videolatausohjelmastamme",
+    
+    "terms_page_title": "Käyttöehdot",
+    "terms_last_updated": "1. tammikuuta 2025",
+    "last_updated": "Viimeksi päivitetty",
+    
+    "terms_acceptance_title": "Ehtojen Hyväksyminen",
+    "terms_acceptance_text": "Käyttämällä tätä TikTok-latauspalvelua hyväksyt ja suostut olemaan sidottu tämän sopimuksen ehtoihin ja määräyksiin.",
+    
+    "terms_service_title": "Palvelun Käyttö",
+    "terms_service_text": "Palvelumme mahdollistaa TikTok-videoiden lataamisen vain henkilökohtaiseen käyttöön. Kaupallinen käyttö on ehdottomasti kielletty.",
+    
+    "terms_usage_title": "Sallittu Käyttö",
+    "terms_usage_1": "Lataa videot vain henkilökohtaiseen, ei-kaupalliseen käyttöön",
+    "terms_usage_2": "Kunnioita tekijänoikeuksia ja immateriaaliomaisuuden oikeuksia",
+    "terms_usage_3": "Käytä palvelua sovellettavien lakien mukaisesti",
+    "terms_usage_4": "Älä yritä kiertää turvatoimia",
+    
+    "terms_prohibited_title": "Kielletyt Toiminnot",
+    "terms_prohibited_1": "Ladatun sisällön kaupallinen uudelleenjakeaminen",
+    "terms_prohibited_2": "Palvelun käänteismekaniikan yrittäminen",
+    "terms_prohibited_3": "Automaattisten työkalujen käyttö palvelun väärinkäyttöön",
+    "terms_prohibited_4": "Sovellettavien lakien tai määräysten rikkominen",
+    
+    "terms_copyright_title": "Tekijänoikeus ja Immateriaaliomaisuus",
+    "terms_copyright_text": "Käyttäjät ovat vastuussa siitä, että heillä on oikeus ladata ja käyttää mitä tahansa sisältöä. Kunnioitamme immateriaaliomaisuuden oikeuksia.",
+    
+    "terms_disclaimer_title": "Vastuuvapauslauseke",
+    "terms_disclaimer_text": "Palvelu tarjotaan 'sellaisenaan' ilman minkäänlaisia takuita. Emme takaa palvelun saatavuutta tai tarkkuutta.",
+    
+    "terms_limitation_title": "Vastuun Rajoittaminen",
+    "terms_limitation_text": "Emme ole vastuussa mistään suorista, epäsuorista, satunnaisista, erityisistä tai seurannaisvahingosta, jotka johtuvat tämän palvelun käytöstä.",
+    
+    "terms_changes_title": "Ehtojen Muutokset",
+    "terms_changes_text": "Pidätämme oikeuden muuttaa näitä ehtoja milloin tahansa. Muutokset tulevat voimaan heti julkaisun jälkeen.",
+    
+    "terms_contact_title": "Yhteystiedot",
+    "terms_contact_text": "Jos sinulla on kysymyksiä näistä ehdoista, ota yhteyttä verkkosivustomme kautta.",
+    
+    "privacy_page_title": "Tietosuojakäytäntö",
+    "privacy_last_updated": "1. tammikuuta 2025",
+    
+    "privacy_intro_title": "Johdanto",
+    "privacy_intro_text": "Tämä Tietosuojakäytäntö kuvaa, kuinka keräämme, käytämme ja suojaamme tietojasi käyttäessäsi TikTok-latauspalveluamme.",
+    
+    "privacy_collection_title": "Keräämämme Tiedot",
+    "privacy_collection_text": "Keräämme vain vähimmäistiedot, jotka tarvitaan palvelumme tarjoamiseen:",
+    "privacy_collection_1": "URL-osoitteet, jotka lähetät käsiteltäväksi",
+    "privacy_collection_2": "Peruskäyttöanalytiikka (anonyymi)",
+    "privacy_collection_3": "Teknisiä tietoja (IP-osoite, selaintyyppi) turvallisuutta varten",
+    
+    "privacy_usage_title": "Kuinka Käytämme Tietoja",
+    "privacy_usage_text": "Käytämme kerättyjä tietoja:",
+    "privacy_usage_1": "Videolatauskyselyjen käsittelyyn",
+    "privacy_usage_2": "Palvelumme suorituskyvyn parantamiseen",
+    "privacy_usage_3": "Väärinkäytön estämiseen ja turvallisuuden varmistamiseen",
+    
+    "privacy_sharing_title": "Tietojen Jakaminen",
+    "privacy_sharing_text": "Emme myy, vaihda tai jaa henkilökohtaisia tietojasi kolmansille osapuolille paitsi lain vaatiessa.",
+    
+    "privacy_cookies_title": "Evästeet ja Seuranta",
+    "privacy_cookies_text": "Käytämme vähimmäisevästeitä välttämättömään toimivuuteen ja nimettömään analytiikkaan. Voit poistaa evästeet käytöstä selainasetuksistasi.",
+    
+    "privacy_security_title": "Tietoturva",
+    "privacy_security_text": "Toteutamme asianmukaiset turvatoimet suojataksemme tietojasi luvattomalta pääsyltä, muuttamiselta, paljastamiselta tai tuhoamiselta.",
+    
+    "privacy_retention_title": "Tietojen Säilyttäminen",
+    "privacy_retention_text": "Säilytämme tietoja vain niin kauan kuin on tarpeen palvelumme tarjoamiseksi ja lakisääteisten velvoitteiden täyttämiseksi.",
+    
+    "privacy_rights_title": "Sinun Oikeutesi",
+    "privacy_rights_text": "Sinulla on oikeus:",
+    "privacy_rights_1": "Päästä käsiksi tietoihin, joita meillä on sinusta",
+    "privacy_rights_2": "Pyytää epätarkkojen tietojen korjaamista",
+    "privacy_rights_3": "Pyytää tietojesi poistamista",
+    
+    "privacy_changes_title": "Tietosuojakäytännön Muutokset",
+    "privacy_changes_text": "Saatamme päivittää tätä tietosuojakäytäntöä ajoittain. Ilmoitamme muutoksista julkaisemalla uuden käytännön tällä sivulla.",
+    
+    "privacy_contact_title": "Ota Yhteyttä",
+    "privacy_contact_text": "Jos sinulla on kysymyksiä tästä tietosuojakäytännöstä, ota yhteyttä verkkosivustomme kautta.",
+    
+    "footer_description": "Nopein ja luotettavin TikTok-videolatausohjelma. Lataa suosikki TikTok-videosi ilmaiseksi korkeassa laadussa.",
+    "footer_links": "Pikalinkit",
+    "footer_disclaimer": "Vastuuvapauslauseke",
+    "disclaimer_text": "Tämä palvelu ei ole yhteydessä TikTokiin. Kaikki tavaramerkit kuuluvat niiden omistajille.",
+    "all_rights_reserved": "Kaikki oikeudet pidätetään."
+}

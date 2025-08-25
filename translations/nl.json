@@ -1,0 +1,157 @@
+{
+    "site_title": "TikTok Downloader",
+    "meta_description": "Download TikTok video's snel en gemakkelijk. Gratis, snelle en veilige TikTok video downloader met meerdere kwaliteitsopties.",
+    "meta_keywords": "tiktok downloader, tiktok videos downloaden, tiktok video opslaan, gratis tiktok downloader",
+    
+    "nav_home": "Home",
+    "nav_faq": "FAQ",
+    "nav_terms": "Servicevoorwaarden",
+    "nav_privacy": "Privacybeleid",
+    "language_selector": "Taal",
+    
+    "hero_title": "TikTok Video's Downloaden",
+    "hero_subtitle": "Snelle, gratis en eenvoudige manier om je favoriete TikTok video's in hoge kwaliteit te downloaden",
+    "paste_url_placeholder": "Plak TikTok video URL hier...",
+    "download_button": "Downloaden",
+    
+    "feature_fast_title": "Bliksemnel",
+    "feature_fast_desc": "Download TikTok video's direct met onze geoptimaliseerde servers",
+    "feature_quality_title": "Hoge Kwaliteit",
+    "feature_quality_desc": "Kies uit meerdere videokwaliteitsopties tot HD",
+    "feature_safe_title": "100% Veilig",
+    "feature_safe_desc": "Geen malware, geen advertenties, volledig veilig en beveiligd",
+    
+    "how_it_works_title": "Hoe Het Werkt",
+    "how_it_works_subtitle": "Download TikTok video's in slechts 3 eenvoudige stappen",
+    "step1_title": "URL Kopiëren",
+    "step1_desc": "Kopieer de TikTok video URL uit je browser of app",
+    "step2_title": "Plakken en Verwerken",
+    "step2_desc": "Plak de URL in onze downloader en klik op downloaden",
+    "step3_title": "Downloaden",
+    "step3_desc": "Kies je gewenste kwaliteit en download de video",
+    
+    "faq_title": "Veelgestelde Vragen",
+    "faq_subtitle": "Krijg antwoorden op veelgestelde vragen over onze TikTok downloader",
+    "faq_q1": "Is deze TikTok downloader gratis?",
+    "faq_a1": "Ja, onze TikTok downloader is volledig gratis te gebruiken. Geen registratie vereist.",
+    "faq_q2": "Welke videokwaliteiten zijn beschikbaar?",
+    "faq_a2": "We ondersteunen meerdere kwaliteiten waaronder HD, 720p, 480p en 360p afhankelijk van de originele video.",
+    "faq_q3": "Is het veilig om te gebruiken?",
+    "faq_a3": "Absoluut! Onze service is volledig veilig en bevat geen malware of virussen.",
+    "faq_q4": "Moet ik software installeren?",
+    "faq_a4": "Geen installatie vereist. Onze TikTok downloader werkt direct in je webbrowser.",
+    "faq_q5": "Kan ik TikTok video's downloaden op mobiel?",
+    "faq_a5": "Ja, onze service is volledig geoptimaliseerd voor mobiele apparaten en werkt op alle smartphones en tablets.",
+    "faq_q6": "Zijn er downloadlimieten?",
+    "faq_a6": "Nee, je kunt zoveel TikTok video's downloaden als je wilt zonder beperkingen.",
+    "view_more_faq": "Meer FAQ Bekijken",
+    
+    "download_title": "Video Downloaden",
+    "back_to_home": "Terug naar Home",
+    "select_quality": "Videokwaliteit Selecteren",
+    "download": "Downloaden",
+    "views": "weergaven",
+    "likes": "likes",
+    "downloading": "Downloaden",
+    "no_formats_available": "Geen downloadformaten beschikbaar voor deze video",
+    
+    "download_instructions_title": "Download Instructies",
+    "instruction_1": "Klik op de downloadknop voor je gewenste videokwaliteit",
+    "instruction_2": "De download start automatisch in je browser",
+    "instruction_3": "Controleer je downloadmap voor het opgeslagen videobestand",
+    
+    "error_no_url": "Voer een TikTok video URL in",
+    "error_invalid_url": "Voer een geldige TikTok video URL in",
+    "error_fetch_failed": "Kon video-informatie niet ophalen. Controleer de URL en probeer opnieuw.",
+    "error_processing": "Er is een fout opgetreden bij het verwerken van de video. Probeer opnieuw.",
+    "error_download_failed": "Download mislukt. Probeer het later opnieuw.",
+    "error_server": "Er is een serverfout opgetreden. Probeer het later opnieuw.",
+    
+    "faq_page_title": "Veelgestelde Vragen",
+    "faq_page_subtitle": "Alles wat je moet weten over onze TikTok video downloader",
+    
+    "terms_page_title": "Servicevoorwaarden",
+    "terms_last_updated": "1 januari 2025",
+    "last_updated": "Laatst bijgewerkt",
+    
+    "terms_acceptance_title": "Acceptatie van Voorwaarden",
+    "terms_acceptance_text": "Door toegang te krijgen tot en gebruik te maken van deze TikTok downloader service, accepteer je en ga je akkoord om gebonden te zijn aan de voorwaarden en bepalingen van deze overeenkomst.",
+    
+    "terms_service_title": "Gebruik van Service",
+    "terms_service_text": "Onze service stelt je in staat om TikTok video's alleen voor persoonlijk gebruik te downloaden. Commercieel gebruik is strikt verboden.",
+    
+    "terms_usage_title": "Toegestaan Gebruik",
+    "terms_usage_1": "Download video's alleen voor persoonlijk, niet-commercieel gebruik",
+    "terms_usage_2": "Respecteer auteursrechten en intellectuele eigendomsrechten",
+    "terms_usage_3": "Gebruik de service in overeenstemming met toepasselijke wetten",
+    "terms_usage_4": "Probeer geen beveiligingsmaatregelen te omzeilen",
+    
+    "terms_prohibited_title": "Verboden Activiteiten",
+    "terms_prohibited_1": "Commerciële herdistributie van gedownloade content",
+    "terms_prohibited_2": "Proberen reverse engineering van de service uit te voeren",
+    "terms_prohibited_3": "Geautomatiseerde tools gebruiken om de service te misbruiken",
+    "terms_prohibited_4": "Schenden van toepasselijke wetten of regelgeving",
+    
+    "terms_copyright_title": "Auteursrecht en Intellectueel Eigendom",
+    "terms_copyright_text": "Gebruikers zijn verantwoordelijk voor het waarborgen dat zij het recht hebben om content te downloaden en te gebruiken. Wij respecteren intellectuele eigendomsrechten.",
+    
+    "terms_disclaimer_title": "Disclaimer",
+    "terms_disclaimer_text": "De service wordt geleverd 'zoals het is' zonder garanties van welke aard dan ook. Wij garanderen niet de beschikbaarheid of nauwkeurigheid van de service.",
+    
+    "terms_limitation_title": "Beperking van Aansprakelijkheid",
+    "terms_limitation_text": "Wij zijn niet aansprakelijk voor directe, indirecte, incidentele, speciale of gevolgschade voortvloeiend uit het gebruik van deze service.",
+    
+    "terms_changes_title": "Wijzigingen in Voorwaarden",
+    "terms_changes_text": "Wij behouden ons het recht voor om deze voorwaarden op elk moment te wijzigen. Wijzigingen worden onmiddellijk van kracht na publicatie.",
+    
+    "terms_contact_title": "Contactinformatie",
+    "terms_contact_text": "Als je vragen hebt over deze voorwaarden, neem dan contact met ons op via onze website.",
+    
+    "privacy_page_title": "Privacybeleid",
+    "privacy_last_updated": "1 januari 2025",
+    
+    "privacy_intro_title": "Inleiding",
+    "privacy_intro_text": "Dit Privacybeleid beschrijft hoe we je informatie verzamelen, gebruiken en beschermen wanneer je onze TikTok downloader service gebruikt.",
+    
+    "privacy_collection_title": "Informatie die We Verzamelen",
+    "privacy_collection_text": "We verzamelen minimale informatie die nodig is om onze service te leveren:",
+    "privacy_collection_1": "URL's die je indient voor verwerking",
+    "privacy_collection_2": "Basis gebruiksanalyses (anoniem)",
+    "privacy_collection_3": "Technische informatie (IP-adres, browsertype) voor beveiliging",
+    
+    "privacy_usage_title": "Hoe We Informatie Gebruiken",
+    "privacy_usage_text": "We gebruiken verzamelde informatie voor:",
+    "privacy_usage_1": "Het verwerken van video download verzoeken",
+    "privacy_usage_2": "Het verbeteren van onze service prestaties",
+    "privacy_usage_3": "Het voorkomen van misbruik en zorgen voor beveiliging",
+    
+    "privacy_sharing_title": "Informatie Delen",
+    "privacy_sharing_text": "We verkopen, verhandelen of delen je persoonlijke informatie niet met derden behalve wanneer wettelijk vereist.",
+    
+    "privacy_cookies_title": "Cookies en Tracking",
+    "privacy_cookies_text": "We gebruiken minimale cookies voor essentiële functionaliteit en anonieme analyses. Je kunt cookies uitschakelen in je browserinstellingen.",
+    
+    "privacy_security_title": "Gegevensbeveiliging",
+    "privacy_security_text": "We implementeren passende beveiligingsmaatregelen om je informatie te beschermen tegen ongeautoriseerde toegang, wijziging, openbaarmaking of vernietiging.",
+    
+    "privacy_retention_title": "Gegevensbewaring",
+    "privacy_retention_text": "We bewaren informatie alleen zo lang als nodig is om onze service te leveren en te voldoen aan wettelijke verplichtingen.",
+    
+    "privacy_rights_title": "Jouw Rechten",
+    "privacy_rights_text": "Je hebt het recht om:",
+    "privacy_rights_1": "Toegang te krijgen tot informatie die we over je hebben",
+    "privacy_rights_2": "Correctie van onjuiste informatie aan te vragen",
+    "privacy_rights_3": "Verwijdering van je informatie aan te vragen",
+    
+    "privacy_changes_title": "Wijzigingen in Privacybeleid",
+    "privacy_changes_text": "We kunnen dit privacybeleid van tijd tot tijd bijwerken. We zullen je op de hoogte stellen van wijzigingen door het nieuwe beleid op deze pagina te plaatsen.",
+    
+    "privacy_contact_title": "Contact Opnemen",
+    "privacy_contact_text": "Als je vragen hebt over dit privacybeleid, neem dan contact met ons op via onze website.",
+    
+    "footer_description": "De snelste en meest betrouwbare TikTok video downloader. Download je favoriete TikTok video's gratis in hoge kwaliteit.",
+    "footer_links": "Snelle Links",
+    "footer_disclaimer": "Disclaimer",
+    "disclaimer_text": "Deze service is niet geaffilieerd met TikTok. Alle handelsmerken behoren toe aan hun respectievelijke eigenaren.",
+    "all_rights_reserved": "Alle rechten voorbehouden."
+}

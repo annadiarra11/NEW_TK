@@ -1,0 +1,128 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="hero-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="hero-content">
+                    <h1 class="hero-title">{{ t.hero_title }}</h1>
+                    <p class="hero-subtitle">{{ t.hero_subtitle }}</p>
+                    
+                    <!-- Download Form -->
+                    <div class="download-form-card">
+                        <form action="{{ url_for('download_video') }}" method="POST" class="download-form">
+                            <div class="input-group">
+                                <input type="url" 
+                                       name="url" 
+                                       class="form-control url-input" 
+                                       placeholder="{{ t.paste_url_placeholder }}" 
+                                       required>
+                                <button class="btn btn-primary download-btn" type="submit">
+                                    <i class="fas fa-download"></i>
+                                    {{ t.download_button }}
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    
+                    <!-- Features -->
+                    <div class="features-grid">
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <i class="fas fa-bolt"></i>
+                            </div>
+                            <h3>{{ t.feature_fast_title }}</h3>
+                            <p>{{ t.feature_fast_desc }}</p>
+                        </div>
+                        
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <i class="fas fa-hd-video"></i>
+                            </div>
+                            <h3>{{ t.feature_quality_title }}</h3>
+                            <p>{{ t.feature_quality_desc }}</p>
+                        </div>
+                        
+                        <div class="feature-item">
+                            <div class="feature-icon">
+                                <i class="fas fa-shield-alt"></i>
+                            </div>
+                            <h3>{{ t.feature_safe_title }}</h3>
+                            <p>{{ t.feature_safe_desc }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- How It Works Section -->
+<section class="how-it-works">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center mb-5">
+                <h2>{{ t.how_it_works_title }}</h2>
+                <p class="text-muted">{{ t.how_it_works_subtitle }}</p>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-4 text-center mb-4">
+                <div class="step-card">
+                    <div class="step-number">1</div>
+                    <h4>{{ t.step1_title }}</h4>
+                    <p>{{ t.step1_desc }}</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4 text-center mb-4">
+                <div class="step-card">
+                    <div class="step-number">2</div>
+                    <h4>{{ t.step2_title }}</h4>
+                    <p>{{ t.step2_desc }}</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4 text-center mb-4">
+                <div class="step-card">
+                    <div class="step-number">3</div>
+                    <h4>{{ t.step3_title }}</h4>
+                    <p>{{ t.step3_desc }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ Preview Section -->
+<section class="faq-preview">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center mb-5">
+                <h2>{{ t.faq_title }}</h2>
+                <p class="text-muted">{{ t.faq_subtitle }}</p>
+            </div>
+        </div>
+        
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="faq-item">
+                    <h5>{{ t.faq_q1 }}</h5>
+                    <p>{{ t.faq_a1 }}</p>
+                </div>
+                
+                <div class="faq-item">
+                    <h5>{{ t.faq_q2 }}</h5>
+                    <p>{{ t.faq_a2 }}</p>
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="{{ url_for('faq') }}" class="btn btn-outline-primary">{{ t.view_more_faq }}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
