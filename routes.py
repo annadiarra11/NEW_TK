@@ -25,7 +25,9 @@ def index():
 def set_language(language):
     if language in get_supported_languages():
         session['language'] = language
-    return redirect(request.referrer or url_for('index'))
+    
+    # Always redirect to home page to avoid method issues
+    return redirect(url_for('index'))
 
 @app.route('/download', methods=['POST'])
 def download_video():

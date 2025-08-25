@@ -62,6 +62,9 @@ body {
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
     padding: 0.5rem 0;
+    max-height: 300px;
+    overflow-y: auto;
+    min-width: 160px;
 }
 
 .dropdown-item {
