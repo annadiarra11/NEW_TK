@@ -83,11 +83,18 @@ class TikTokDownloader:
     def download_video(self, url, quality='best'):
         """Download video with specified quality"""
         try:
+            # Clean up any existing files first
+            self.cleanup()
+            # Create fresh temp directory
+            self.temp_dir = tempfile.mkdtemp()
+            
             # Set up download options
             if quality == 'best':
-                format_selector = 'best[ext=mp4]'
+                format_selector = 'best[ext=mp4]/best'
             else:
-                format_selector = f'best[height<={quality.replace("p", "")}][ext=mp4]'
+                # Fix the format selector - quality comes as "720p", "480p", etc.
+                height = quality.replace("p", "") if quality != 'Best Quality' else '9999'
+                format_selector = f'best[height<={height}][ext=mp4]/best[height<={height}]'
             
             output_path = os.path.join(self.temp_dir, '%(title)s.%(ext)s')
             
@@ -99,10 +106,20 @@ class TikTokDownloader:
             }
             
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                # Get video info first to know the expected filename
+                info = ydl.extract_info(url, download=False)
+                
                 # Download the video
                 ydl.download([url])
                 
-                # Find the downloaded file
+                # Use the actual title to find the correct file
+                expected_title = info.get('title', 'video')
+                # Sanitize title for filename matching
+                import string
+                safe_chars = string.ascii_letters + string.digits + ' .-_'
+                safe_title = ''.join(c for c in expected_title if c in safe_chars)
+                
+                # Find the downloaded file by checking all files
                 for file in os.listdir(self.temp_dir):
                     if file.endswith(('.mp4', '.webm', '.mkv')):
                         return os.path.join(self.temp_dir, file)
